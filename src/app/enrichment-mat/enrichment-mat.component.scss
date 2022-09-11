@@ -1,0 +1,237 @@
+p {
+  margin: 0;
+}
+:host {
+  display: block;
+  background-color: white;
+  padding-top: 25px;
+}
+
+.title-grid {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  gap: 17px;
+  margin-bottom: 18px;
+}
+.create-line {
+  border-bottom: 2px solid #fb6d3a;
+}
+.page-title {
+  font-size: 30px;
+  font-weight: 700;
+}
+.categories-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-top: 2em;
+  display: none;
+}
+
+.category-texts {
+  border: 2px solid #2e394d;
+  border-radius: 30px;
+  font-weight: 700;
+  font-size: 22px;
+  color: #2e394d;
+  padding: 14px 22px;
+  background-color: transparent;
+}
+.selected-category {
+  background-color: #2e394d;
+  color: #ffffff !important;
+}
+.category-texts:hover {
+  color: white !important;
+  background-color: #2e394d;
+}
+.category-texts:active {
+  color: white !important;
+  background-color: #172133;
+  border-color: #172133;
+}
+.create-line-category-seperator {
+  border-bottom: 2px solid #e6e9f0;
+}
+main {
+  width: 80%;
+  margin: auto;
+  padding: 22px 0;
+  display: grid;
+  gap: 25px;
+}
+.resource-container {
+  display: grid;
+  gap: 40px;
+}
+.item-grid-container {
+  display: grid;
+  align-items: center;
+  gap: 10px 40px;
+  justify-items: center;
+  margin: auto;
+  max-width: 336px;
+}
+
+.item-grid-container,
+.item-grid-container * {
+  cursor: url("assets/images/cursors/LinkSelect.cur"), pointer !important;
+}
+
+.category-name-text {
+  font-weight: 900;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+.item-text-container {
+  display: grid;
+  gap: 5px;
+}
+.item-title-text {
+  font-weight: 700;
+  font-size: 20px;
+}
+.item-descp-text {
+  font-size: 15px;
+}
+.contents,
+.contents * {
+  display: contents;
+}
+.selected-category-container {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  padding: 15px 30px;
+  border: 2px solid #2e394d;
+  background-color: white;
+  border-radius: 26.5px;
+}
+.dropdown-container {
+  user-select: none;
+  width: fit-content;
+  margin: auto;
+  margin-top: 2em;
+}
+.dropdown-container,
+.dropdown-container * {
+  cursor: url("assets/images/cursors/LinkSelect.cur"), pointer !important;
+}
+.dropdown-container,
+.dropdown-categories-container {
+  z-index: 4;
+}
+.dropdown-categories-container.full-size {
+  height: auto;
+  transform: scaleY(100%);
+}
+.font-styles {
+  font-size: 15px;
+  font-weight: 700;
+}
+.dropdown-categories-container {
+  height: 0;
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: transform ease-out 120ms;
+  position: absolute;
+  margin-top: 7px;
+  display: grid;
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+  right: 0;
+  margin: 0 15px;
+  left: 0;
+}
+.__arrow {
+  transition: transform ease-out 120ms;
+  width: 16px;
+}
+.__rotate {
+  transform: rotate(180deg);
+}
+.dropdown-categories {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+.create-dot {
+  height: 6px;
+  width: 6px;
+  background-color: #2e394d;
+  border-radius: 50%;
+  display: inline-block;
+}
+.selected-category > .create-dot {
+  background-color: white;
+}
+.categories-text {
+  font-size: 18px;
+}
+@media (min-width: 900px) {
+  .dropdown-container {
+    display: none;
+  }
+  .categories-container {
+    display: flex;
+  }
+  main {
+    padding: 60px 0;
+    gap: 124px;
+  }
+  .item-grid-container {
+    grid-auto-flow: column;
+    grid-template-columns: 336px;
+    max-width: unset;
+    margin: unset;
+  }
+  .category-name-text {
+    margin-top: 30px;
+    margin-bottom: 60px;
+  }
+  .resource-container {
+    gap: 20px;
+  }
+  .item-title-text {
+    font-size: 24px;
+  }
+  .item-descp-text {
+    font-size: 19px;
+  }
+}
+.fade-out {
+  animation: fade-out 200ms ease-out both;
+}
+
+@keyframes fade-out {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.fade-in {
+  animation: fade-in 200ms cubic-bezier(0.39, 0.575, 0.565, 1) both;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.category-texts {
+  cursor: pointer;
+}

@@ -1,0 +1,86 @@
+<div class="title-grid">
+  <p class="page-title">{{ "ENRICHMENT_MATERIAL.TITLE" | translate }}</p>
+  <div class="create-line"></div>
+</div>
+
+<div
+  #toggleButton
+  class="dropdown-container font-styles"
+  (click)="toggleDropdown()"
+>
+  <div class="selected-category-container">
+    <span> {{ selectedCategory.categoryName | translate }}</span>
+    <img
+      class="__arrow"
+      [class.__rotate]="isExpandedDropdown"
+      src="assets/images/arrow-blue.svg"
+    />
+  </div>
+  <div
+    class="dropdown-categories-container"
+    [class.full-size]="isExpandedDropdown"
+  >
+    <p
+      class="dropdown-categories"
+      [class.selected-category]="category === selectedCategory"
+      *ngFor="let category of categoriesList"
+      (click)="categoryClick(category)"
+    >
+      <span class="create-dot"></span>
+      <span class="categories-text">
+        {{ category.categoryName | translate }}</span
+      >
+    </p>
+  </div>
+</div>
+
+<div class="categories-container">
+  <ng-container *ngFor="let category of categoriesList"
+    ><a
+      class="category-texts btns-trans-G"
+      [class.selected-category]="category === selectedCategory"
+      (click)="categoryClick(category)"
+      >{{ category.categoryName | translate }}</a
+    >
+  </ng-container>
+</div>
+<main [ngClass]="animation">
+  <ng-container *ngFor="let resource of filterdResources">
+    <div>
+      <div class="create-line-category-seperator"></div>
+      <p class="category-name-text">
+        {{ resource.categoryName | translate }}
+        <ng-container *ngIf="resource.items.length === 0">
+          ({{ "ENRICHMENT_MATERIAL.NO_ITEMS" | translate }})
+        </ng-container>
+      </p>
+      <div class="resource-container">
+        <ng-container *ngFor="let item of resource.items">
+          <div class="item-grid-container" (click)="clickOnItem(item)">
+            <ng-container [ngSwitch]="resource.categoryId">
+              <div class="contents">
+                <app-image
+                  *ngSwitchCase="resourceCategory.ARTICLE"
+                  [thumbnail]="item.thumbnail!"
+                ></app-image>
+                <app-iframe
+                  *ngSwitchCase="resourceCategory.LECTURE"
+                  [link]="item.link"
+                ></app-iframe>
+              </div>
+            </ng-container>
+            <div class="item-text-container">
+              <p class="item-title-text">{{ item.title | translate }}</p>
+              <p class="item-descp-text">{{ item.descp | translate }}</p>
+            </div>
+          </div>
+        </ng-container>
+      </div>
+    </div>
+  </ng-container>
+</main>
+<div
+  *ngIf="isExpandedDropdown"
+  (click)="toggleDropdown()"
+  class="sidenav-overlay-G"
+></div>
