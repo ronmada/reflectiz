@@ -77,11 +77,6 @@ main {
   max-width: 336px;
 }
 
-.item-grid-container,
-.item-grid-container * {
-  cursor: url("assets/images/cursors/LinkSelect.cur"), pointer !important;
-}
-
 .category-name-text {
   font-weight: 900;
   font-size: 22px;
@@ -119,10 +114,7 @@ main {
   margin: auto;
   margin-top: 2em;
 }
-.dropdown-container,
-.dropdown-container * {
-  cursor: url("assets/images/cursors/LinkSelect.cur"), pointer !important;
-}
+
 .dropdown-container,
 .dropdown-categories-container {
   z-index: 4;

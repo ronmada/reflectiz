@@ -15,7 +15,6 @@ import { TranslateService } from '@ngx-translate/core';
       iframe {
         width: 100%;
         border-radius: 10px;
-        cursor: url(assets/images/cursors/LinkSelect.cur), pointer !important;
         border: 0;
       }
     </style>`,

@@ -6,7 +6,6 @@ import { Component, Input } from '@angular/core';
     <style>
       img {
         border-radius: 10px;
-        cursor: url(assets/images/cursors/LinkSelect.cur), pointer !important;
       }
     </style>`,
 })
