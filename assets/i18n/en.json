@@ -1,0 +1,1995 @@
+{
+  "TOP_APP_NAVIGATION": {
+    "LINKS": {
+      "HOME_PAGE": "Home",
+      "MY_RESULTS": "Results",
+      "MY_TRAININGS": "My Trainings",
+      "MY_PROGRAM": "My Program",
+      "EXERCISES": "Exercises",
+      "VIDEOS_AND_STRATEGIES": "Videos",
+      "JOURNEY": "My Journey",
+      "INFORMATION_AND_SUPPORT": "Support",
+      "INFORMATION_AND_SUPPORT_MOBILE": "Support",
+      "EXTRAS": "Extras",
+      "PURCHASE_SUBSCRIPTION": "Subscribe Now",
+      "RENEW_SUBSCRIPTION": "Renew Now",
+      "EXIT": "Exit",
+      "MENU": "Menu",
+      "USER_MENU": {
+        "SETTINGS": "Settings",
+        "MY_ACCOUNT": "My account",
+        "TO_LOGOUT": "Log out",
+        "LANGUAGE_SETTER": "Hebrew"
+      }
+    }
+  },
+  "LOGIN_PAGE": {
+    "ENTER_TITLE": "Log in",
+    "USERNAME": "Username",
+    "LOGIN_PLACEHOLDER": "Your email",
+    "VALIDATION": {
+      "EMAIL_MANDATORY": "Email field is mandatory",
+      "EMAIL_INCORRECT": "Email address incorrect",
+      "INACTIVE_ACCOUNT": "Your subscription is currently frozen",
+      "CONTACT_SUPPORT": "We couldn't identify your email address. Please verify that it is correct.",
+      "WRONG_PASSWORD_MESSAGE": "Wrong password",
+      "WRONG_PASSWORD_TITLE": "Error!",
+      "UNKNOWN_ERROR_MSG": "Unknown error"
+    },
+    "SUBMIT": "Submit",
+    "FORGOT_PASSWORD": "Click here if you forgot your password",
+    "BROWSER_DISCLAIMER": "It is recommended to work on a computer or tablet",
+    "CHROME": "Chrome",
+    "OR": "or",
+    "FIREFOX": "Firefox",
+    "SUPPORT": ""
+  },
+  "PASSWORD_PAGE": {
+    "GLAD_YOUR_BACK": "Welcome back :) Please type in your password.",
+    "PASS_PLACEHOLDER": "Your password",
+    "JOIN_TEXT": "Welcome, nice to meet you! Please choose a password for your account. Password must contain at least 6 characters.",
+    "I_AGREE": "By creating this account, I understand and agree to the",
+    "TO_TERMS": "terms of service",
+    "AND_PRIVACY": "privacy policy",
+    "VALIDATION": {
+      "PASS_MANDATORY": "You must enter password to proceed",
+      "PASS_6_CHARACTERS": "Password must contain at least 6 characters",
+      "ACCEPT_TERMS": "Please accept the terms of service"
+    },
+    "SHOW_PASS": "Show password",
+    "HIDE_PASS": "Hide password"
+  },
+  "FORGOT_PASSWORD": {
+    "TITLE": "Forgot password?",
+    "DONT_WORRY": "Forgot your password? No worries... type in your phone number and receive a reset code immediately",
+    "PHONE_PLACEHOLDER": "Your phone number",
+    "EMAIL_PLACEHOLDER": "Your email address",
+    "SEND_CODE": "Send me a reset code",
+    "IF_TROUBLE": "If you encounter any more trouble, our",
+    "HERE": "support staff",
+    "SUPPORT_PHONE": "is at your disposal, or call: 077-3536370",
+    "VERIFICATION_CODE_BTN": "Verify code",
+    "RESET_SUCCESS_TOASTR": "Done! Successfully sent your verification code",
+    "RESET_FAIL_TOASTR": "Something failed, verification code didn't send successfully",
+    "PHONE_INCORRECT": "This phone number does not belong to this account",
+    "PASSWORD_RECOVERY_TITLE": "Reset Password",
+    "PASSWORD_RECOVERY_BODY": "Verification code sent to your phone number: ",
+    "ENTER_CODE_PLACEHOLDER": "Enter your code",
+    "CREATE_NEW_PASSWORD_TITLE": "Create new password",
+    "MANDATORY_MSG": "Verification code is required",
+    "CREATE_NEW_PASSWORD_BODY1": "Please choose a password for your account.",
+    "CREATE_NEW_PASSWORD_BODY2": "Password must contain at least 6 characters.",
+    "PASSWORD_PLACEHOLDER": "Password",
+    "CONFIRM_PASSWORD_PLACEHOLDER": "Enter password again",
+    "UPDATE_PASSWORD_BTN": "Update password",
+    "CODE_VERIFIED_MSG": "Successful user authentication",
+    "CODE_VERIFY_FAIL": "Something went wrong"
+  },
+  "HOME_PAGE": {
+    "INSTALL_EFFECTIVATE": "For easy access download the app",
+    "START_PRACTICE": "Start training",
+    "CLICK_HERE": "Click here",
+    "TO_EXERCISES": "More exercises",
+    "BEFORE_WE_BEGIN": "Before we begin, take a moment for assessment no.",
+    "ASSESSMENT_LONG_TEXT": "Today you will take a periodical assessment. The tasks will last about 20 minutes and will include 4 exercises: Stars, Fish, Flowers, and Numbers. The assessment will allow us to examine how the training affects you at different points in time and will help us learn how to further improve it for you. After the assessment, feel free to head to the Exercises page for more practice. Your next training session will open tomorrow.",
+    "START_ASSESSMENT": "To Assessment",
+    "START": "Start",
+    "APPLICATION_TRIAL_ENDS_IN": "Trial period ends in",
+    "DAYS": "days",
+    "MY_WORKOUTS_THIS_WEEK": "My workouts this week",
+    "YOUR_LAST_TRAINING": {
+      "TODAY": "Your last training was today",
+      "YESTERDAY": "Your last training was yesterday",
+      "DAY_BEFORE_YESTERDAY": "Your last training was the day before yesterday",
+      "ON": "Your last training was on"
+    },
+    "YOUR_NEXT_TRAINING": {
+      "TODAY": "Next training will open today",
+      "TOMORROW": "Next training will open tomorrow",
+      "POPUP": {
+        "TITLE": "Next training session opening",
+        "TEXT": "Your next training session will open early tomorrow morning. This break allows your brain to consolidate the acquired information by transferring it from short-term memory to long-term memory. This process primarily takes place when you are asleep, and is essential for strengthening brain connections. Therefore, the next training will be available after the abilities you strengthened in the previous training have been consolidated and moved to long-term memory."
+      }
+    },
+    "TRAINING_SEQUENCE": {
+      "3_IN_A_ROW": "You've completed a sequence of 3 exercises this week!",
+      "ONE_MORE_IN_SEQUENCE": "One exercise remaining to fulfill weekly goal!",
+      "TWO_MORE_TO_SEQUENCE": "Two exercises remaining to fulfill weekly goal!",
+      "THREE_MORE_TO_SEQUENCE": "Three more exercises remaining to fulfill weekly goal!",
+      "MAY_DO_MORE": "You may continue practicing upon fulfilling weekly goal, of course :)",
+      "ENJOY_MORE": "You may now practice for your own enjoyment :)"
+    },
+    "DAYS_OF_THE_WEEK": {
+      "SUNDAY": "Sunday",
+      "MONDAY": "Monday",
+      "TUESDAY": "Tuesday",
+      "WEDNESDAY": "Wednesday",
+      "THURSDAY": "Thursday",
+      "FRIDAY": "Friday",
+      "SATURDAY": "Saturday"
+    },
+    "MY_PROGRESS": "My progress",
+    "PROGRESS_TEXT": "Follow your training results, learn where your cognitive strengths lie, and evaluate which abilities need work.",
+    "TRAINING_RESULTS": "Training results",
+    "FOOTER_COMPONENT": {
+      "DOWLOAD_OUR_APPLICAION": "Download our application",
+      "DIRECT_LINK": "directly to your computer / device",
+      "DOWNLOAD": "Download",
+      "COME_WATCH_VIDEOS": "Watch the enrichment videos again for more tips",
+      "MORE_EXERCISES": "Visit our Exercises page to continue working on your memory and try out new exercises",
+      "DAILY_WORKOUT_TITLE": "Your daily workout awaits, shall we begin?",
+      "ASSESSMENT_TITLE": "Your periodical assessment awaits, shall we begin?",
+      "BUTTONS": {
+        "TO_VIDEOS": "To videos",
+        "TO_EXERCISES": "More exercises",
+        "TO_PRACTICE": "Practice",
+        "TO_ASSESSMENT": "Begin assessment",
+        "CONTACT": "Contact us"
+      },
+      "SUPPORT_TITLE": "Our support team is available",
+      "SUPPORT_TEL_NO": "",
+      "SUPPORT_AVAILABILITY": "via Email",
+      "ORG1_SUPPORT_TEL_NO": "0768045472 or 2700 ext. 3",
+      "ORG1_SUPPORT_AVAILABILITY": "Sunday to Thursday: 7am - 8pm <br/>Friday: 7am - 1pm",
+      "VERSION": "version:"
+    },
+    "EXPIRED_PLAN_ALERT": {
+      "YOUR_PLAN": "Your subscription",
+      "IS_FINISHED": "has expired",
+      "WILL_END_TOMORROW": "will expire tomorrow",
+      "WILL_END_IN": "will expire in",
+      "ENDS_TODAY": "expires today",
+      "MUST_RENEW": "To continue brain training you must renew your subscription",
+      "MUST_UPGRADE": "To continue brain training you must upgrade your subscription"
+    }
+  },
+  "MODAL_WINDOWS": {
+    "PERSEVERANCE": {
+      "TITLE": "Training perseverance",
+      "TEXT_1": "To maximize training efficiency we recommend practicing at least",
+      "TEXT_2": "3 times a week",
+      "TEXT_3": "Persistence in your training over time will allow you to adopt new habits, anchor them to your daily life, and use them on a daily basis.",
+      "TEXT_4": "Meeting this weekly goal will earn you 25 bonus coins! We certainly encourage you to exercise more, even every day."
+    },
+    "RECOMMENDATION": {
+      "TITLE": "Recommendation",
+      "TEXT_1": "In this training session we'll practice the abilities and strategies learned in the previous session.",
+      "TEXT_2": "Before training, it is recommended to rewatch Eran Katz's enrichment videos in order to apply his techniques to the exercises. You can find them in the video gallery.",
+      "TO_VIDEOS": "To videos"
+    },
+    "REFRESH": {
+      "TITLE": "Refresh page",
+      "TEXT_1": "You must refresh the page in order to remain up to date.",
+      "TEXT_2": "Refresh"
+    },
+    "DICTIONARY": {
+      "TITLE": "Cognitive Glossary"
+    }
+  },
+  "SUPPORT_PAGE": {
+    "CONTACT_FORM": {
+      "TITLE": "Contact us",
+      "FORWARD_TEXT": "Please specify your reason for contacting us and we will email you back at:",
+      "CONTACT_REASON": "Reason for Inquiry:",
+      "TEXTAREA_PLACEHOLDER": "How can we help?",
+      "CONTACT_REASON_LIST": {
+        "SOFTWARE_ISSUE": "Technical issues",
+        "USER_SUBSCRIPTION_ISSUE": "My subscription",
+        "OTHER": "Other"
+      },
+      "SUBMIT_BUTTON": "Send request"
+    },
+    "VIDEOS_AND_INFO": {
+      "TITLE": "If you have questions",
+      "HELP_TEXT": "There may be something here that can help:",
+      "INSTRUCTION_VIDEOS": "Instructional videos",
+      "SUPPORT_AND_INFO": "Information and support page"
+    },
+    "SUPPORT_OPTIONS": {
+      "TITLE": "Support",
+      "CREATE_SHORTCUT": "Drag to desktop to create shortcut",
+      "REMOTE_SUPPORT": "Tech support remote connection"
+    }
+  },
+  "INFO_PAGE": {
+    "TITLE": "Information and Support",
+    "OPEN_TEXT": "Need help using the application? You've come to the right place! Use the searchbar to navigate or choose a subject from the list below.",
+    "SEARCH_PLACEHOLDER": "How can we help?",
+    "QUESTION": "Question",
+    "ANSWER": "Answer",
+    "ENHANCE_IMG": "Click On the picture to enlarge it",
+    "MORE_INFO_VIDEO": "For more information, watch the following video:",
+    "INFO_CATEGORIES": {
+      "SEE_ALL": "See all",
+      "TRAINING": {
+        "NAME": "Training",
+        "ITEM_1": {
+          "TITLE": "3 Trainings Per Week",
+          "QUESTION": "How many trainings are recommended each week?",
+          "ANSWER": "We recommend at least 3 trainings a week in order for the trainings to be most efficient. <br/>Of course, you are welcome to train even more - a new workout opens every day. <br/>The reason for this amount is that, just like in physical training, it is important to challenge yourself significantly and over time, in order for your body to invest the necessary energy towards making changes and strengthening its systems."
+        },
+        "ITEM_2": {
+          "TITLE": "Daily Training",
+          "QUESTION": "How many trainings can I do in a day? Why are additional training sessions restricted?",
+          "ANSWER": "The daily workout is conducted once each day.<br/>After completing your training session you may move to the exercise section and continue practicing freely with the individual exercises.<br/>Your next training session will open the next morning, allowing your brain to rest and process what it learned. This process, called \"consolidation,\" is similar to the rest that muscles need in order to recover and build after a workout."
+        },
+        "ITEM_3": {
+          "TITLE": "Limiting Breaks",
+          "QUESTION": "I had to stop in the middle of the training session. Can I repeat it? Why are the break times limited?",
+          "ANSWER": "We encourage continuous practice without breaks to achieve maximum efficiency. This is why the breaks' durations are limited to two minutes. If you take a break, we recommend returning to your training as soon as possible, even before the break ends. </br>After two minutes of break, the training will terminate and you will be returned to the main page. <br/>If you completed the vast majority of the training session prior to the break, your current training will be locked and the next training session will open the following morning. If you have only done part of the training prior to the break, youur daily training will start again from the beginning."
+        },
+        "ITEM_4": {
+          "TITLE": "Repeating the Rolling Exercise",
+          "QUESTION": "Why does the \"Rolling Stones\" game pop up so often during my training session?",
+          "ANSWER": "The \"Rolling Stones\" game is very important as it works on attention, which is one of the cornerstones of memory. \"Attention strengthening\" works on the ability to focus on the important things. This ability is critical to memory processes. Different levels of the \"Rolling Stones\" game focus on different attention components (including attentional control, focused attention, spatial attention, and more). Since this exercise works on several attentional components, it is played repeatedly in order to make sure that each of the different attention components is adequately trained to allow for a comprehensive and thorough workout."
+        },
+        "ITEM_5": {
+          "TITLE": "Training Results Graphs",
+          "QUESTION": "What can I learn from my \"Trained Abilities\" graphs?",
+          "ANSWER": "The \"Training Results\" page includes a list of the cognitive abilities that were trained during the session.<br/>For each cognitive ability, an aggregate score is calculated based on the following properties: the success rate (accuracy), the speed of execution (how many clicks were delivered), the difficulty of the level (amount of items, presentation durations, etc.), and finally, the cumulative training history. <br/><br/><br/>There is no maximum score for this index - the more accurately and quickly you answer, the higher the score will be. <br/>The index is calculated separately for each cognitive ability, and it combines the different exercises targeting each ability in a training. Therefore, some changes between trainings may reflect the combination of exercises you completed."
+        },
+        "ITEM_6": {
+          "TITLE": "Previous Training Results",
+          "QUESTION": "Where can I find my previous training results?",
+          "ANSWER": "All your training results are can be found on the \"My results\" page. <br/>On this page you can move between trainings you completed on different dates and view detailed reports of your training results."
+        },
+        "ITEM_7": {
+          "TITLE": "Exercise Instructions",
+          "QUESTION": "What if I've forgotten the instructions for an exercise in the middle of a training session?",
+          "ANSWER": "During each exercise there are three buttons that appear in the lower right corner, including a button with a question mark. This is the help button. Clicking on it will open the help window and pause the exercise (for a limited time). <br/>In the help window that will appear, you will see a written explanation of the exercise, as well as the option to click \"Show Tutorial,\" which will take you through a version of the game in which will guide you through each step. This window can be accessed at any time, even while training in more advanced levels. </br> You can learn more about the help button in the tutorial video, \"System Buttons\""
+        },
+        "ITEM_8": {
+          "TITLE": "Coin Collection",
+          "QUESTION": "How many coins can I collect from using the program? What can I use them for?",
+          "ANSWER": "Each workout earns 5 coins.<br>In addition, each week you meet the recommendation of at least 3 workouts gives a bonus of 25 coins!<br>Therefore, you can accumulate up to 60 coins a week.<br>Throughout the trainings, new challanges will be added to your road map, the completion of which is a milestone that earns extra coins 😊<br>Referring a friend - an addition of 100 coins.<br>And what do you do with the coins?<br>They can be used to redeem benefits distributed along your journey, such as courses, audio books and more.<br>In addition, 25 coins are equivalent to a 1% discount when renewing the subscription up to a maximum discount of 50%!"
+        }
+      },
+      "EXERCISES_AND_VIDEOS": {
+        "NAME": "Exercises and Videos",
+        "ITEM_1": {
+          "TITLE": "Locked Exercises",
+          "QUESTION": "I saw an exercise with a lock symbol - what does it mean?",
+          "ANSWER": "If an exercise has a lock symbol, it means that access to it is locked for the time being.<br/>Access to the exercises is opened gradually, since most exercises open only after you have been introduced to them during your weekly training. As you progress in your training, other exercises will gradually open."
+        },
+        "ITEM_2": {
+          "TITLE": "Cognitive Abilities",
+          "QUESTION": "How can I tell which cognitive ability I'm training in each exercise?",
+          "ANSWER": "On the \"Exercises\" page you will find a list of all of the exercises and the cognitive abilities they train. Clicking on any ability (connectivity, working memory, etc.), you will open the cognitive glossary window which presents an in-depth description of the selected ability."
+        },
+        "ITEM_3": {
+          "TITLE": "Opening Exercises",
+          "QUESTION": "When do the individual exercises open (on the \"Exercises\" page)?",
+          "ANSWER": "Our application is designed to encourage optimal memory and attention training. Therefore, it is important that you first complete your daily training before moving on to individual exercises, since they do not necessarily address factors like pace, duration, or variety. The continuous training does, however, take these factors into account. Therefore, the individual exercises will only be opened once the daiy training is completed."
+        },
+        "ITEM_4": {
+          "TITLE": "Watching Videos",
+          "QUESTION": "I watched a video during a training session and I want to re-watch it. Where can I find it?",
+          "ANSWER": "All of the videos you have seen during the trainings are available on our platform and can be re-watched at any time.<br>To find them, click on “My Journey” on the top menu. You will reach “My Journey” page, where you can navigate to all of your collected contents. Click on the “Videos” tab to view the videos repository, which includes opening videos, strategies, and more."
+        }
+      },
+      "EVALUATION_TEST": {
+        "NAME": "Evaluation Test",
+        "ITEM_1": {
+          "TITLE": "Evaluation Tests?",
+          "QUESTION": "What is an evaluation test? What is it used for?",
+          "ANSWER": "An assessment is a sequence of 4 exercises that appears every once in a while about every six weeks and replaces the daily workout.<br/>The exercises in the assessment are different from those in the training sessions. The level of difficulty of the exercises does not change as the assessment progresses, and there is no indication of correct or incorrect answers during the assessment.<br/>The purpose of the assessment is for us to obtain a snapshot of the overall standing of all users. This snapshot helps us to understand the various factors that influence your training and progress, which allows us to generate insights that will improve your personal training. You may skip the test by pressing the \"Skip\" button and moving right along to the daily training."
+        },
+        "ITEM_2": {
+          "TITLE": "Evaluation Test Results",
+          "QUESTION": "Can I see the results of my evaluation test?",
+          "ANSWER": "The assessments' results will appear at the end of each exercise: showing either your highest percent correct or your highest score.<br/>In addition, at the end of the assessment, a summary page will present the results of all of the exercises.<br/>At this stage, this data is not avaliable after the end of the assessment."
+        },
+        "ITEM_3": {
+          "TITLE": "Evaluation Test Frequency",
+          "QUESTION": "How often does an evaluation test appear?",
+          "ANSWER": "The Evaluation test will appear four times over the first training year, starting with the second training session."
+        }
+      },
+      "TECHNICAL_INFORMATION": {
+        "NAME": "Technical Information",
+        "ITEM_1": {
+          "TITLE": "Download app and create a shortcut",
+          "QUESTION": "Can I download the app to my computer/tablet/phone?",
+          "ANSWER": "For easy access to the training, you can create a desktop shortcut as well as access to the app through the device’s menu. This with a few simple steps:</br>(1) In the Homepage, click on the \"Download the app\" button that appears on the top-left. This button can also be found at the bottom right of the page.</br>(2) In the window that appears on the top-right, click \"Install\".</br>(3) A shortcut to the app will be automatically added to your device menu as well as a shortcut on your desktop."
+        },
+        "ITEM_2": {
+          "TITLE": "Retrieving Password",
+          "QUESTION": "I've forgotten my password. What should I do?",
+          "ANSWER": "If you've forgotten your password, you can always reset it using the following steps:<br/>1) On the login page - click on the link \"Click here if you forgot your password\" which appears below the \"Login\" button. <br/>2) This will lead to a password recovery page. Here, fill in the required details: email address and phone number, and click on \"Send me a reset code\". <br/>3) After this, you will be redirected to a new page, and a password recovery code will be sent to your mobile number. Enter the code in the appropriate field. <br/>4) Now choose a new password with a combination of at least 6 letters and numbers and click on \"Update password\". It is recommended to choose an easy-to-remember password such as your birthday or the name of someone close to you.<br/>5)All set! You can now log in using your new password."
+        },
+        "ITEM_3": {
+          "TITLE": "Changing Password",
+          "QUESTION": "Is it possible to change my password?",
+          "ANSWER": "Yes. It is possible to change your password at any time by following these steps:<br/>1) On the top left of the page, next to your username, is a small orange triangle. Click on it to open a menu amd select \"My Account\". <br/>2) On the \"My Account\" page, in the \"Login details\" section, click \"Change password\".<br/>3) You can now update your password by typing your current and new passwords in the appropriate fields. Finally, click on \"Change password\" to save.<br/>That's it, your new password has been saved! Make sure to use it in your next login.<br/>We recommend to choose an easy-to-remember password such as your birthday or the name of someone close to you."
+        },
+        "ITEM_4": {
+          "TITLE": "Training Reminders",
+          "QUESTION": "Is it possible to set up automatic practice reminders?",
+          "ANSWER": "Absolutely. It is possible - and highly recommended - to set regular reminders in order to create a habit of brain training. <br/>Steps for setting a reminder are:<br/>1) At the top left of the page, next to your username, click the small orange triangle to open a menu. From this menu, select \"My Account\".<br/>2) On the \"My Account\" page, choose \"Settings\" from the menu on the left. <br/>3) Choose the days when you would like to receive a reminder. Please note that the default time to receive a reminder is 9:00 AM. If you would like to change it, click on the dropdown menu and select the desired time. You can set different times for different days.<br/>4) Now, choose the way you would like to receive the reminder, whether through a WhatsApp message, SMS, or email. You may select more than one mode of reminders.<br/> All that's left is to click the \"Save\" button.<br/>In order to receive your reminders, please ensure that your phone number and email address under \"My Account\" are up to date."
+        }
+      },
+      "MY_JOURNEY": {
+        "NAME": "My journey",
+        "ITEM_1": {
+          "TITLE": "My Journey's Route",
+          "QUESTION": "What is the route that appears on the main page? What do the different icons mean?",
+          "ANSWER": "Your journey's route is displayed on the main page below the Start Training button. This route consists of elements, where each element represents a workout. The workouts you have already done appear in blue with a green 'V', your future workouts appear in white, and today's workouts will appear in orange if you have not done it yet, or in gray if you have already done it. Below it you'll find arrows to navigate between all parts of your journey's route.<br/>Some icons are placed along the route. Each icon represents a \"bonus\" that you'll receive after the training:<br/>1.  Coins - At the end of the training you will receive a bonus of extra coins, which is in addition to the coins for the daily training and for compliance with 3 training sessions per week.<br/>2.  New exercise - after the daily training one of the locked exercises on the \"Exercises\" page will open, and you'll be able to practice it as much as you wish.<br/>3.  New video - in this workout you'll watch a new video.<br/>4.  New course - after the daily training a new course will open. You can redeem it with the coins you have accumulated."
+        },
+        "ITEM_2": {
+          "TITLE": "My Journey",
+          "QUESTION": "What is My Journey? How can I reach it?",
+          "ANSWER": "My Journey is a page that contains everything you have accumulated throughout your workouts or purchased using coins. This page has 4 tabs: Videos, Courses, Coins and Club. You can access the Journey page by clicking on \"Journey\" in the top bar."
+        },
+        "ITEM_3": {
+          "TITLE": "Courses",
+          "QUESTION": "My Journey: What can I find in the “Courses” tab?",
+          "ANSWER": "In the \"Courses\" tab (located in \"My Journey\") you will find additional teaching courses for independent learning. Next to each course you will find in how many trainings it will become available and for how many coins it can be redeemed (by pressing the orange button). The courses can be redeemed if you have enough coins."
+        },
+        "ITEM_4": {
+          "TITLE": "''",
+          "QUESTION": "''",
+          "ANSWER": "''"
+        },
+        "ITEM_5": {
+          "TITLE": "Coins",
+          "QUESTION": "My Journey: What can I find in the “Coins” tab?",
+          "ANSWER": "In the \"Coins\" tab (located in \"My Journey\") you can see how many coins you have available, and the amount of discount you can redeem when renewing your subscription.<br/> In this tab you can also find your accumulation history (by clicking on \"Details\" next to Coins Accumulated), and also the usage history (by clicking on \"Details\" next to Coins Used).<br/>In this tab you will also find an explanation of how the coins are accumulated and how they can be used."
+        }
+      }
+    }
+  },
+  "TRAINING_RESULTS_PAGE": {
+    "POPUP_MSG": "Our data shows that about 70% of our customers exercise more with reminders. Would you like to set a reminder?",
+    "NO_TRAININGS_MSG": "The training results will be presented here after the first workout is completed.",
+    "TABS": {
+      "MY_TRAININGS": {
+        "TITLE": "My Trainings",
+        "TRAINING": "Training",
+        "TRAINING_DURATION": "Training duration:",
+        "EXERCISES_IN_SESSION": "Exercises in session:",
+        "MONTH_NAMES": {
+          "JANUARY": "January",
+          "FEBRUARY": "February",
+          "MARCH": "March",
+          "APRIL": "April",
+          "MAY": "May",
+          "JUNE": "June",
+          "JULY": "July",
+          "AUGUST": "August",
+          "SEPTEMBER": "September",
+          "OCTOBER": "October",
+          "NOVEMBER": "November",
+          "DECEMBER": "December"
+        },
+        "TIME": {
+          "SECONDS": "seconds",
+          "MINUTES": "minutes",
+          "HOURS": "hours"
+        },
+        "YOU_DID": "You did",
+        "EXERCISES_THAT_INCLUDED": "exercises which included:",
+        "TO_FULL_REPORT": "View full report",
+        "THIS_MONTH_INACTIVITY": "- this month you missed",
+        "TRAINING_RESULTS": {
+          "TITLE": "Training results",
+          "RESULTS_TABS": {
+            "GENERAL_SUMMARY": "General summary"
+          },
+          "SUMMARY": {
+            "TO_HOMEPAGE_BTN": "Homepage",
+            "TITLE": "Abilities I've Trained in training {{trainingNumber}}",
+            "PERFORMANCE_FOR_EACH": "Performance in each cognitive ability calculated by a weighted measure",
+            "WHAT_IS": "What is the \"weighted measure\"?",
+            "TO_RESULTS": "Graph performance",
+            "CORRECT_ANSWERS": "Correct ans.",
+            "TRAINING_DURATION": "Training duration",
+            "ONE_MORE": "One more training session to achieve your weekly goal",
+            "X_MORE": "{{trainings}} more training sessions to achieve weekly goal",
+            "WEEKLY_GOAL": "Weekly goal achieved! You may continue training at your leisure",
+            "WAY_TO_GO": "Way to go!",
+            "TRAINING_IMPROVEMENT": "Improvement during training",
+            "TRAINING_DETERIORATION": "Deterioration during training",
+            "ACHIEVEMENTS_MAINTAINED": "Achievements maintained",
+            "IN_EXERCISES": "in exercises during training",
+            "SAME_AS_PREVIOUS": "Same as prev. session",
+            "AS_OPPOSED_TO": "",
+            "IN_LAST_SESSION": "in prev. session",
+            "SAME_AS_LAST": "Same as last session you reached",
+            "CORRECT_ANSWER_HISTORY": "History",
+            "TO_ALL_RESULTS": "Results history",
+            "TO_MY_COINS": "My coins",
+            "ERAN_GAMES_COMPARE": {
+              "FIRST_EXERCISE": "First exercise",
+              "LAST_EXERCISE": "Last exercise",
+              "RESULTS": "results",
+              "DURING_TRAINING": "for exercises",
+              "IMPROVEMENTS_TEXT": {
+                "TEXT_1": "Way to go! You managed to implement Eran's tip and improve your performance in exercise {{gameNum}}.",
+                "TEXT_2": "Way to go! you kept your maximum score in this training session.",
+                "TEXT_3": "Comparing between the opening game and the replay of the game that you played at the end of the session helps to show if you implemented Eran's tip for completing the exercise.",
+                "TEXT_4": "There's room for you to improve your technique. We encourage you go back to Eran's tips videos and to practice the exercises.",
+                "TEXT_5": "Way to go! You kept up your training score.",
+                "TEXT_6": "The first 9 training sessions will open and close with a \"memory strategies\" exercise, in which you'll receive one of Eran's tips for solving it."
+              },
+              "IN_EXERCISES_DURING_SESSION": "in exercises during training session",
+              "THIS_TRAINING_SESSION": "in this training session",
+              "TOTAL_ACQUIRED_SO_FAR": "a total of ",
+              "COINS_ACQUIRED": "coins acquired so far",
+              "TO_SEE_MORE": "to see what you can get with the coins"
+            },
+            "YOU_COMPLETED": {
+              "3_SUCCESSIVE_TRAININGS": "You've completed three sessions of training!",
+              "ONE_MORE_LEFT": "One more training session left",
+              "TRAININGS_LEFT": "training sessions left",
+              "TRAININGS_THIS_WEEK": "sessions this week"
+            },
+            "BENEFITS": {
+              "BOOK": "Available audio book",
+              "COURSE": "Available course",
+              "COINS": "Received coins",
+              "VIDEO": "Received video",
+              "GAME": "Available game",
+              "BUTTONS": {
+                "VIDEO": "Videos",
+                "GAME": "Exercises",
+                "COURSE": "Courses",
+                "BOOK": "Audio books",
+                "COINS": "My coins"
+              }
+            }
+          },
+          "MY_PERFORMANCE": "My performance",
+          "GRAPH_EXPLANATION": "This graph shows the weighted measures from each of your training sessions.",
+          "WEIGHTED_METRIC": "Weighted measure",
+          "POPUP_METRIC": {
+            "PERCENTAGE": "Success percentage",
+            "DIFFICULTY": "Difficulty level",
+            "STEPS": "Number of moves",
+            "PROGRESS": "Progress level",
+            "METRIC_TITLE": "The weighted measure is based on the factors that influence training difficulty:",
+            "METRIC_DETAILS": "Your success rate in each exercise is influenced by your accuracy, the difficulty of the level, and the speed of your responses. These factors are all taken into account when calculating your weighted measure. This measure represents the level of intensity and \"brain sweat\" that you accomplished in the training. There is no maximum score. The more frequently you train, and the faster and more accurately you answer, the higher your score will be. The score is calculated separately for each ability, and it is comprised of all the relevant exercises targeting this ability within the training."
+          },
+          "EXPLANATION": "Explanation",
+          "SHOW_RANGE": "Show range of",
+          "TRAINING_SESSIONS": "training sessions",
+          "GRAPH": {
+            "NO_PREVIOUS_RESULTS": "No previous results",
+            "NO_RESULTS": "Results will be shown after the 3rd training"
+          },
+          "GOTO_EXERCISES": "Go to exercises",
+          "TO_PRACTICE_MORE": "To practice more ",
+          "TRY": "try:"
+        }
+      },
+      "MY_PROGRAM": {
+        "TITLE": "My Program",
+        "INCENTIVE_TEXT": "Practice, earn stars and get rewards -",
+        "LEARN_HOW": "learn how",
+        "TRAINING_SESSIONS": "Training sessions",
+        "STREAKS": "Streaks",
+        "COINS_ACQUIRED": "Coins acquired",
+        "DISCOUNT_AMOUNT": "Discount",
+        "WEEK": "Week",
+        "PERKS_PROGRAM_MODAL": {
+          "TITLE": "Accumulating coins in the program",
+          "FIRST_PARAGRAPH": "We at Effectivate believe that consistency is the key to success. That's why we've created a benefits program for users who persevere in their training - each training session earns you coins, which you may accumulate and convert into money when renewing your subscription.",
+          "HOW_DOES_IT_WORK": "How does it work?",
+          "EACH_TRAINING_SESSION": "Each training session =",
+          "FIVE_COINS": "5 coins",
+          "EACH_3_TRAINING_WEEK": "Each week you train at least 3 times =",
+          "25_POINTS_BONUS": "a 25 coin bonus",
+          "EACH_FRIEND_BONUS": "Each friend referred by you = 100 coins bonus beyond the weekly accumulation",
+          "25_COINS": "25 coins = 1% discount for renewing subscription fee",
+          "COINS_INDIVIDUAL": "* Coins in the application are personal and non transferable",
+          "MAXIMUM_DISCOUNT": "* The maximum discount you can accumulate is 50%",
+          "CREDO": "We believe that consistent training will help in maintaining your memory and attention abilities over time, and may even improve your overall cognitive performance."
+        }
+      }
+    }
+  },
+  "EFFECTIVATE_DEMO": {
+    "INTRO_PAGE": {
+      "TITLE": "Effectivate - a program for training and strengthening your memory",
+      "TEXT_1": "The training uses an integrated approach of practicing memory mechanisms associated with memory and concentration, as well as learning memory strategies that aid in daily activities. Effectivate adapts the training to your personal abilities in order to optimize your results and the attainment of your brain's potential.",
+      "TEXT_2": "The Effectivate training is new and innovative, combining the leading technologies with our original trainings that were developed with the guidance of researchers and specialists. We aim to take cognitive training a step further by producing an advanced and effective training program.",
+      "TRIAL_PRACTICE": "Trial Practice",
+      "OUR_ADVANTAGE": {
+        "AI_COMING_SOON": "Tailored to your pace and abilities through artificial intelligence (coming soon)",
+        "SPECIAL_PROGRAM": "A unique training method that focuses on strengthening memory and attentional capabilities",
+        "TECHNIQUES": "Practical tools and techniques for developing memory skills that will aid in everyday activities",
+        "DEDICATED_HELP": "A dedicated and professional team to accompany you on the journey of improving your quality of life"
+      },
+      "PRACTICE_TITLE": "Creating a more interesting, personalized, and effective brain training program",
+      "MOBILE": {
+        "TITLE": "Effectivate<br/> a program for training and strengthening your memory",
+        "TRAINING": "The training integrates the strengthening of brain functions associated with memory and concentration alongside learning memory strategies and methods to aid in everyday activities.",
+        "PERSONAL": "Training geared towards your personal abilities with the express purpose of reaching your optimal training and achieving your brain's potential",
+        "NEW_SYSTEM": "A new and innovative system using the most advanced technologies and training methods available, developed with the guidance of leading researchers in the field",
+        "TRIAL_TRAINING": "Trial training session",
+        "TITLE_2": "Creating sensitive, interesting, and effective brain training"
+      }
+    },
+    "NAVIGATION": {
+      "CONTACT": "Contact us",
+      "FOLLOW_US": "Follow us",
+      "READ_ABOUT_US": "Read about us"
+    },
+    "SELECT_PAGE": {
+      "TRAINING_LEVEL": "The training level difficulty progresses according to individual ability.",
+      "SELECT_TRAINING": "Which type of training would you like to try?",
+      "BASIC": "Basic level training",
+      "ADVANCED": "Advanced level training",
+      "DIFFICULT": "Difficult level training"
+    },
+    "END_PAGE": {
+      "PURCHASE": "Subscribe",
+      "CONTACT_HELPDESK": "Contact us",
+      "ANOTHER_TRIAL": "Another trial session"
+    },
+    "FORM": {
+      "FILL_DETAILS": "Fill your details for free trial",
+      "NAME": "Name",
+      "EMAIL": "Email",
+      "PHONE": "Phone",
+      "LETTERS_ONLY": "Letters only",
+      "TWO_LETTERS_VALIDATION": "At least two letters",
+      "PHONE_VALIDATION": "Only numbers",
+      "EMAIL_VALIDATION": "Invalid email",
+      "SEND": "Send",
+      "AGREE": "I agree to receive promotional information"
+    }
+  },
+  "TUTORIALS": {
+    "PREFACE_VIDEOS": "Preface Videos",
+    "TIPS_AND_STRATEGIES": "Tips and Strategies for a Better Memory",
+    "ENRICHMENT_MATERIAL": "Enrichment Materials",
+    "APPLICATION_INSTRUCTION_VIDEOS": "Instructional videos",
+    "OOPS_COURSE": "Course with Memory Acquisition Tools & Tactics",
+    "COURSE_AVAILABILITY": "The course is available to customers with a yearly subscription only",
+    "TRAIN_YOUR_BRAIN": "Oops! Train your brain how not to forget",
+    "ERAN_DEMONSTRATES": "Eran Katz demonstrates strategic tools for:",
+    "BETTER_YOUR_CONCENTRATION": "Better concentration",
+    "REDUCE_YOUR_SCATTER_BRAIN": "Reducing absent-mindedness",
+    "DOWNLOAD_PAMPHLET": "Download pamphlet",
+    "OPEN": "Open course",
+    "VIDEO_DESCRIPTIONS": {
+      "PREFACE": "Introduction",
+      "SETTING_GOALS": "Importance of Setting Goals",
+      "MAKING_HABITS": "Creating Habits",
+      "MEMORY": "Introduction to Memory",
+      "SEMANTIC_NETWORKS": "Semantic Networks",
+      "INFORMATION_ORGANIZATION": "Information Organization",
+      "ATTENTION": "Attention",
+      "SECRET_TO_OLD_AGE": "The Secret to Aging Well",
+      "COURSE_SUMMARY": "70 is the New 60"
+    },
+    "ERAN_KATZ_VIDEOS": {
+      "VIDEO_1": "1 - Remembering Faces",
+      "VIDEO_2": "2 - Finding Constant Features",
+      "VIDEO_3": "3 - Putting a Name to a Face 1",
+      "VIDEO_4": "4 - Putting a Name to a Face 2",
+      "VIDEO_5": "5 - Creating Associations 1",
+      "VIDEO_6": "6 - Creating Associations 2",
+      "VIDEO_7": "7 - Organizing Information",
+      "VIDEO_8": "8 - Chain of Associations",
+      "VIDEO_9": "9 - Mental Road Map",
+      "VIDEO_10": "10 - Everyday Memory Techniques"
+    },
+    "EXTRA_VIDEOS": {
+      "ROLLING_1": "Brain Plasticity",
+      "ROLLING_2": "Brain Plasticity: a deeper look",
+      "ROLLING_3": "Connect the Dots",
+      "NUTRITION": "1 - Empowering Nutrition",
+      "FOOD_FOR_THOUGHT": "2 - Food for Thought",
+      "DOS_AND_DONTS": "3 - Food for Thought - Do's and Don'ts",
+      "BRAIN_FLEXIBILITY1": "Brain Plasticity",
+      "BRAIN_FLEXIBILITY2": "Brain Plasticity: a deeper look",
+      "CEO_VIDEO": "Some words from our CEO",
+      "ERAN1": "Face Recognition: Additional tip",
+      "ERAN3": "Name Recall: Additional Tip",
+      "ERAN2": "Chain of Associations: Additional Tip",
+      "YOGA1": "Yoga 1",
+      "YOGA2": "Yoga 2",
+      "K1": "What is the connection between our perceived age and the maturation of the brain?",
+      "K2": "Can cognitive decline be prevented, and how?",
+      "K3": "The importance of our brain health",
+      "K4": "Memory strategies - what is it all about?"
+    },
+    "GUIDANCE_VIDEOS": {
+      "CREATE_DESKTOP_SHORTCUT": "1 - Creating a Desktop Shortcut",
+      "ENTER_FIRST_TRAINING_SESSION": "2 - Login to Effectivate",
+      "DELETE_CACHE": "3 - Delete Your Cache",
+      "EXPLANATION_FOR_RESULTS": "3 - Results Page: Explained",
+      "SYSTEM_BUTTONS": "4 - Exercise Interface",
+      "INDICATIONS_IN_EXERCISE_SCREEN": "6 - Game Interface",
+      "DELETE_CACHE_IN_IPAD": "7 - Deleting Your Cache on iPad",
+      "WELCOME": "Welcome"
+    },
+    "OOPS_VIDEOS": {
+      "REMEMBER_NOT_TO_FORGET": "1 - How to Remember not to Forget",
+      "NEVER_FORGET_LOCKED_DOOR": "2 - How to Never Forget if You've Locked the Door",
+      "NOT_FORGETTING_IMPORTANT_TASKS": "3 - How to Remember Important Tasks when You're Troubled by Nagging Thoughts",
+      "WHY_WE_REMEMBER_PAST": "4 - Why We Remember Events from the Distant Past",
+      "AVOID_DISTRACTIONS": "5 - How to Avoiding Distractions: The Art of Focusing",
+      "MEMORY_BLOCKAGE": "6 - Memory Blockages: Why Do We Forget Things We Know Well?",
+      "SUMMARY": "7 - Summary"
+    },
+    "WATCH_MORE": "View more",
+    "WATCH_LESS": "View less"
+  },
+  "POST_TRAINING": {
+    "WAY_TO_GO": "Way to go!",
+    "FINISHED_TRAINING": "You've finished training session",
+    "HOW_WAS_IT": "We'd love to hear about how it went",
+    "QUESTIONS_AND_ANSWERS": {
+      "QUESTION_1": {
+        "TITLE": "How did you feel during the training session?",
+        "ANSWER_LOW": "not great",
+        "ANSWER_HIGH": "great"
+      },
+      "QUESTION_2": {
+        "TITLE": "How challenging was it for you?",
+        "ANSWER_LOW": "not very",
+        "ANSWER_HIGH": "excellent"
+      },
+      "QUESTION_3": {
+        "TITLE": "How much do you think you improved?",
+        "ANSWER_LOW": "very little",
+        "ANSWER_HIGH": "a lot"
+      },
+      "QUESTION_4": {
+        "TITLE": "How interesting was the training session?",
+        "ANSWER_LOW": "it wasn't interesting",
+        "ANSWER_HIGH": "it was very interesting"
+      },
+      "QUESTION_5": {
+        "TITLE": "how tiring was the training session?",
+        "ANSWER_LOW": "I'm not tired",
+        "ANSWER_HIGH": "I'm very tired"
+      },
+      "QUESTION_6": {
+        "TITLE": "Would another training session immediately benefit you?",
+        "ANSWER_LOW": "not at all",
+        "ANSWER_HIGH": "it would benefit me tremendously"
+      },
+      "QUESTION_7": {
+        "TITLE": "what could improve your training session?",
+        "ANSWER_LOW": "move up a challenge level",
+        "ANSWER_HIGH": "move down a challenge level"
+      },
+      "QUESTION_8": {
+        "TITLE": "What would lead to the most effective training session?",
+        "ANSWER_LOW": "shorten the length",
+        "ANSWER_HIGH": "make it longer"
+      }
+    },
+    "TENSION_BUILDING": {
+      "TITLE": "Thanks for sharing,",
+      "PREPARING": "We're preparing your results..."
+    },
+    "NEXT_TIME": "Next time take me straight to training results page",
+    "TO_TRAINING_RESULTS": "To training results",
+    "COINS": {
+      "TITLE": "Getting Coins",
+      "TITLE1": "You have completed training {{training}}",
+      "TITLE2": "and received {{coins}} coins!",
+      "TOTAL_COINS": "You have {{customerCoins}} coins in total",
+      "TRAINING_COINS": "{{coins}} coins for completing workout {{training}}",
+      "STREAK_COINS": "{{coins}} bonus coins for meeting the goal of 3 workouts per week",
+      "ACHIEVEMENT_COINS": "{{coins}} bonus coins for completing the route",
+      "STREAK_WARNING": "You need {{training}} more trainings to get {{coins}} coins for streak",
+      "STREAK_WARNING1": "You need one more training to get {{coins}} coins for streak"
+    },
+    "BENEFIT": {
+      "TITLE": "Getting Benefit",
+      "TRAINING_COMPLETE": "Training {{training}} was completed",
+      "OPENED_OPTION": "Get benefit",
+      "COINS_PRICE": "for {{coins}} coins",
+      "AUDIO_BOOK": "Audio book",
+      "COURSE": "Course",
+      "NO_COINS": "Not enought coins"
+    },
+    "BENEFIT_SUCCESS": {
+      "TITLE": "Your benefit is waiting for you",
+      "TO_BENEFIT": "To Benefit"
+    }
+  },
+  "EXERCISES_PAGE": {
+    "TITLE": "Exercises",
+    "HELPS_TRAIN": "Helps train:",
+    "CLOSE_GAME": "Unlock in {{count}} training",
+    "CLOSE_GAME1": "Unlock at next training",
+    "RECOMMENDED_TEXT": "Recommended For You",
+    "EXERCISES_FILTER": "Exercises Filter"
+  },
+  "EXERCISE_PAGE": {
+    "LAST_RESULTS": "Achievements and results from last exercise",
+    "LEGEND": "Legend",
+    "SHOW_STATISTICS": "Show achievements and results",
+    "HIDE_STATISTICS": "Hide achievements and results",
+    "START_GAME": "Start game",
+    "WEIGHTED_METRIC": "Weighted metric",
+    "RIGHT_ANSWER_PERCENT": "Right answer percentage",
+    "SKIP_CHECKBOX": "Remove this exercise from my workouts",
+    "POPUP_TITLE": "Caution!",
+    "CONFIRM_BTN": "Confirm",
+    "SKIP_GAME": "You're about to remove this exercise from your future workouts. Continue?",
+    "RESTORE_GAME": "You're about to return this exercise into your workouts. Continue?"
+  },
+  "MY_ACCOUNT_PAGE": {
+    "CHANGE_PLAN": "Change Current Plan",
+    "EXTEND_PLAN": "Extend Current Plan",
+    "CANCEL_PLAN": "Cancel Plan",
+    "TABS": {
+      "TAB_1": "My Account",
+      "TAB_2": "Settings"
+    },
+    "SETTINGS": "Settings",
+    "REMINDERS": "Reminders",
+    "RECOMMENDATION": "We recommend you train at least 3 times a week so that your training is as effective as possible and we can measure the change in your cognitive abilities.",
+    "SELECT_DAYS": "Select the days on which you would like to receive a reminder:",
+    "NOTE": "Please note - this is only a reminder, the training is available to you at any time.",
+    "UPDATE_ME": "Update me:",
+    "UPDATE_WHATSAPP": "Via WhatsApp message",
+    "UPDATE_SMS": "Via SMS",
+    "UPDATE_EMAIL": "Via email",
+    "WHEN_TO_PRACTICE": "When should you practice?",
+    "WHEN_TEXT": "When deciding on a training time, there are two things to keep in mind: choosing a time of day when alertness and concentration are high, and choosing a consistent time which will allow you to form a habit. For example, training after your morning coffee, after a workout, training in the same time window each afternoon, etc.",
+    "PERSONAL_DETAILS": "Personal details:",
+    "NAME": "Name",
+    "GENDER": "Gender",
+    "female": "Female",
+    "male": "Male",
+    "FEMALE": "Female",
+    "MALE": "Male",
+    "BIRTHDATE": "Birthdate",
+    "PHONE": "Phone number",
+    "OTHER_PHONE": "Alternate phone number",
+    "EDUCATION_YEARS": "Educational status",
+    "EDUCATION": "Education",
+    "OCCUPATION": "Occupation",
+    "EDIT_PERSONAL_DETAILS": "Edit personal details",
+    "LOGIN_DETAILS": "Login details",
+    "FIRST_NAME": "First name",
+    "LAST_NAME": "Last name",
+    "EMAIL_ADDRESS": "Email address",
+    "PASSWORD": "Password",
+    "MY_PLANS": "My plans",
+    "MY_PROGRAM": "My program",
+    "CURRENT_PLAN": "Current Plan",
+    "PREVIOUS_PLANS": "Previous Plans",
+    "STRAT_DATE": "Start Date",
+    "END_DATE": "End Date",
+    "DURATION": "Duration",
+    "FREEZE": "Freeze",
+    "FREEZES": "Freezes",
+    "DAYS": "days",
+    "COINS": "You earned {{coins}} coins",
+    "REDUCTION": "You are entitled to {{reduction}} percent for next plan",
+    "PACKAGE_TYPE": "Package type",
+    "PACKAGE_STARTS": "Package begins",
+    "PACKAGE_ENDS": "Package ends",
+    "CHARGES_AMOUNT": "No of payments",
+    "ENTER_RECEIPT": "Deal invoice",
+    "INVOICES": {
+      "MY_INVOICES": "My invoices",
+      "INVOICE_NUMBER": "Invoice No",
+      "PRICE": "Price",
+      "DATE": "Issue date",
+      "ENTER_INVOICE": "Tax invoice",
+      "VIEW": "View",
+      "SPECIAL_MSG": "* Only invoices generated after March 3rd, 2022 are available in the app"
+    },
+    "CONTACT_ME": "Contact me to update subscription",
+    "CONTACT_SUCCESS": "Your request was sent, thank you for reaching out",
+    "CONTACT_ERROR": "Your request did not go through, please call us",
+    "NO_EDIT": "You can edit details only if you have an active plan",
+    "EDUCATION_LEVEL": {
+      "UNIVERSITY": "University",
+      "GRADE_SCHOOL": "Primary school",
+      "MIDDLE_SCHOOL": "Middle school",
+      "HIGH_SCHOOL": "High school",
+      "COLLEGE": "College",
+      "DOCTOR": "Doctor",
+      "PROFESSOR": "Professor"
+    },
+    "PROFESSION": {
+      "ENGINEER": "Engineering",
+      "RESEARCHER": "Research",
+      "OPERATOR": "Operations",
+      "PENSIONER": "Pensioner",
+      "ADMINISTRATIVE": "Administration",
+      "ARCHITECTURE": "Architecture",
+      "ART": "Art",
+      "ENGINEERING": "Engineering",
+      "EDUCATION": "Education",
+      "AGRICULTURE": "Agriculture",
+      "ACCOUNTING": "Accounting",
+      "CARE_GIVER": "Caretaking",
+      "PRODUCTION": "Production",
+      "MAN_POWER": "Human resources",
+      "ECONOMICS": "Economics",
+      "RESEARCH": "Research",
+      "COMPUTERS": "Computers",
+      "HEALTH": "Health profession",
+      "LAWYER": "Lawyer",
+      "DESIGN": "Design",
+      "SOFTWARE_DEVELOPMENT": "Software development",
+      "SECURITY": "Security",
+      "MARKETING": "Marketing",
+      "SERVICE": "Service",
+      "ARMY": "Military",
+      "TRANSPORTATION": "Transportation",
+      "MAINTENANCE": "Maintenance",
+      "OPERATION": "Operations"
+    },
+    "EDIT_DETAILS_VALIDATIONS": {
+      "NAME_ONLY_LETTERS": "The name must only contain letters",
+      "HEBREW_ONLY": "Name can only be in hebrew",
+      "NAME_TOO_SHORT": "Name must contain at least two characters",
+      "PHONE_WRONG": "Incorrect phone number"
+    },
+    "EDIT_EMAIL": {
+      "TITLE": "Edit email address",
+      "EMAIL": "Email",
+      "INVALID_EMAIL": "Invalid email address",
+      "MUST_HAVE_SIX_CHARS": "Password must contain at least six letters",
+      "SAVE_EMAIL": "Save email address",
+      "EMAIL_PLACEHOLDER": "Enter your email",
+      "PASS_PLACEHOLDER": "Enter you password"
+    },
+    "CHANGE_PASSWORD": {
+      "TITLE": "Change password",
+      "OLD_PASS": "Old password:",
+      "NEW_PASS": "New password:",
+      "RE_ENTER_PASS": "Re-enter the password:",
+      "BTN_CHANGE_PASS": "Change password",
+      "PLACEHOLDERS": {
+        "OLD_PASS": "Enter Old Password",
+        "OLD_NEW": "Enter New Password",
+        "RE_ENTER": "Re-enter Password"
+      }
+    },
+    "CHANGE_PASS_VALIDATION": {
+      "AT_LEAST_6": "Must be at least 6 characters",
+      "ENTER_NEW": "You must enter a new password",
+      "RE_ENTER_PASS": "You must re-enter your new password",
+      "CONFIRM_PASS_FAILED": "Re-entered password doesn't match new password",
+      "MUST_ENTER_OLD": "You must enter your old password"
+    },
+    "CHANGE_PASSWORD_TOAST": {
+      "WRONG_PASS": "Wrong password",
+      "CHANGE_SUCCESSFUL": "Password changed successfully.",
+      "FAILURE_MESSAGE": "Something went wrong, password change unsuccessful"
+    },
+    "EDIT_DETAILS_TOOLTIP_1": "you may type like this:",
+    "EDIT_DETAILS_TOOLTIP_2": "and also like like this:",
+    "EDIT_DETAILS_TOOLTIP_3": "anything goes",
+    "EDIT_EMAIL_TOASTERS": {
+      "EMAIL_CHANGE_SUCCESS": "Email address changed successfully.",
+      "EMAIL_EXISTS": "Email address already exits",
+      "EMAIL_FAILURE": "Something went wrong, email address change unsuccessful"
+    },
+    "SNACKBARS": {
+      "SETTINGS_SAVED": "Settings successfully saved!"
+    },
+    "BIRTHDAY_GENDER_WINDOW": {
+      "TITLE": "To improve the training experience please fill in the missing details:",
+      "ACCEPT_BTN": "Submit",
+      "LATER_BTN": "Fill later"
+    }
+  },
+  "ON_BOARDING": {
+    "HI": "Hi",
+    "WELCOME_TEXT": "We're pleased you've joined Effectivate! Before we start it's important to us that we explain how the training program works and what's in store for you. We now encourage you to play the clip below.",
+    "READY": {
+      "TITLE": "Ready for your first training session?",
+      "TEXT_1": "The training session is comprised of several consecutive exercises.",
+      "TEXT_2": "For an optimal experience we recommend creating a peaceful environment.",
+      "TO_TRAINING": "Now, on to the training session"
+    }
+  },
+  "REGISTER_ORG": {
+    "REGISTER_ORG_POPUP_TEXT": "For the purpose of registering and connecting to the training site, you are redirected to an external website of the site's operator. The level of information security and/or content appearing on the site and the information stored on it are the full and exclusive responsibility of the site owners and operators. Clalit Health Services does not bear any responsibility, directly and/or indirectly, in connection with the management of the said site and the information on it. By approving the redirection to the training site, you release Clalit from any liability and/or responsibility for any claim that may arise regarding a violation of information confidentiality and/or anything related to and/or resulting from the use of the site.",
+    "REGISTER_ORG_POPUP_HEADER": "You are being redirected to the Effectivate website",
+    "REGISTER_ORG_POPUP_SUB_HEADER": "Let's start the registration process"
+  },
+  "PURCHASE_PAGE": {
+    "PLAN_DETAILS": "Package details",
+    "CHANGE_PLAN": "Change package",
+    "FULL_PRICE": "Full price",
+    "DISCOUNT": "discount for coin collection",
+    "TOTAL_PAYMENT": "Total amount due",
+    "SECURE_PROCESS": "Secure process",
+    "INSTRUCTIONS_1": "You must fill in your credit card details.",
+    "INSTRUCTIONS_2": "We accept all credit card types except preloaded cards and Isracard direct",
+    "IAGREE": "By clicking the purchase button you agree to the terms of use",
+    "SELECT_PLAN": {
+      "BRAIN_TRAINING": "Innovative brain training",
+      "FOR_THE_ELDERLY": "Geared towards the elderly",
+      "INTEGRATED_TRAINING": "Integrated training protocol",
+      "TAYLOR_MADE": "Tailored training",
+      "RESEARCH_BASED": "Scientific research based",
+      "USER_FRIENDLY": "User friendly"
+    },
+    "PURCHASE_PLAN": {
+      "RECOMMENDED_PLAN": "Suggested package!",
+      "PER_MONTH": "monthly",
+      "PER_YEAR": "yearly",
+      "INSTEAD_OF": "instead of",
+      "TOTAL": "for a total of",
+      "LOCAL_CURRENCY": "ILS per",
+      "CURRENCY_SIGN": "₪",
+      "CURRENCY_SYMBOL1": "ILS",
+      "CURRENCY_SYMBOL2": "USD",
+      "HALF_YEAR": "Half a year",
+      "SIX_MONTHS": "6 months",
+      "YEAR": "year",
+      "MONTH": "month",
+      "MINIMUM_THREE_MONTHS": "Three month minimum",
+      "MAX_PAYMENT_12": "12 payments",
+      "MONTHLY_PAYMENT": "Monthly payment",
+      "YEARLY_PLAN": "Yearly plan",
+      "HALF_YEARLY_PLAN": "Half yearly plan",
+      "WEEKLY_PLAN": "Weekly plan",
+      "TWO_WEEKS_PLAN": "Weekly plan",
+      "THREE_MONTHLY_PLAN": "3 months plan",
+      "TYPES": {
+        "RENEWED_MONTHLY": "Renewable monthly",
+        "ONE_MONTH_RENEW": "Renewable monthly",
+        "YEARLY": "Yearly subscription",
+        "YEARLY_PLUS": "Yearly subscription + tablet",
+        "MONTHLY_RENEWING": "Renewable monthly",
+        "TRI_MONTHLY_RENEWING": "Renewable quarterly subscription",
+        "COUPLE_YEARLY": "Yearly couples subscription",
+        "ONE_WEEK_TRIAL": "One week trial subscription",
+        "TWO_WEEK_TRIAL": "Two week trial subscription",
+        "UP_TO_MONTH": "Monthly non-renewable subscription",
+        "GENERAL_TRIAL": "Clalit trial subscription",
+        "YEARLY_PLUS_TABLET": "Yearly subscription + tablet",
+        "SIX_MONTHS": "6 month subscription",
+        "HALF_YEAR": "6 month subscription",
+        "CLALIT_FRM": "Clalit plan",
+        "MONTHLY_FRM": "Free Trial",
+        "HALF_MONTHLY_FRM": "Free Trial",
+        "BENEFIT10_FRM": "Free Trial",
+        "SIX_MONTHS_OOOPS": "Six month subscription including OOPS",
+        "WEEKLY_FRM": "One week trial",
+        "THREE_MONTH_RENEW": "Three month renewable subscription",
+        "FRM_OPEN": "Free trial",
+        "FRM_NEW1": "Free trial",
+        "FRM_MAX_LIMIT": "Free trial",
+        "CLALIT_FRM_EX": "One month Clalit subscription extended",
+        "TEST_PLAN": "test plan",
+        "HALF_YEAR_NEW": "Half year subscription new",
+        "MONTHLY_SPLIT_FRM": "Two weeks subscription",
+        "SIX_WEEKS_free": "Six weeks free",
+        "TWO_WEEKLY_FRM": "Two weeks free trial",
+        "MONTHLY_free": "Free Trial",
+        "SUPERPHARM_FRM": "Super-Pharm 2 week free trial",
+        "WEEKLY_free": "Weekly free trial subscription",
+        "YEARLY_free": "Yearly subscription",
+        "HALF_YEARLY_free": "Half year subscription, free",
+        "THREE_MONTH": "Three month subscription",
+        "demoPlan": "Demo plan"
+      },
+      "BENEFITS": {
+        "YEARLY": "Annual training program",
+        "HALF_YEARLY": "Half yearly training program",
+        "MONTHLY_RENEW": "Monthly training program",
+        "PANEL": "Graph showing progress of abilities over time",
+        "PERSONAL": "Personalized workouts/training",
+        "ERAN": "Practical Memory strategies by a Israeli Guinness world record holder",
+        "MODULATION": "Neuromodulation Training",
+        "SUPPORT": "Customer service & support",
+        "FREEZE": "Option to pause your subscription",
+        "BONUS": "Bonus - Memory techniques course with Eran Katz and Lenny Ravitz",
+        "TABLET": "Samsung Tablet",
+        "HOME": "Personal guidance (help) in your home",
+        "EXLUSIVE": "5 exclusive lessons guided by Israeli Guinness world record holder",
+        "GRANDCHILDREN": "A bonus course for you grandkids’ exam studying"
+      },
+      "PLANS": {
+        "MSG_CLALIT": "Clalit members? you deserve",
+        "MSG_SUPERPHARM": "Super-Pharm members? you deserve",
+        "DISCOUNT_CLALIT": "30% discount",
+        "DISCOUNT_SUPERPHARM": "15% discount"
+      },
+      "PURCHASE": "Purchase",
+      "SUCCESSFULLY_PURCHASED": "You've successfully purchased",
+      "HAVE_GREAT_TRAINING": "Have a great training session!"
+    },
+    "CHANGE_PLAN_POPUP": {
+      "TITLE": "Choose Package"
+    },
+    "PAYMENT_DETAILS": "Payment details",
+    "YEARLY_PLAN": "Yearly training plan",
+    "PLANS": {
+      "YEARLY": {
+        "TITLE": "Yearly subscription",
+        "DESCRIPTION": "Annual training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "One year training plan"
+      },
+      "SIX_MONTHS": {
+        "TITLE": "6 month subscription",
+        "DESCRIPTION": "Semi-annual training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "Six month training plan"
+      },
+      "HALF_YEAR": {
+        "TITLE": "6 month subscription",
+        "DESCRIPTION": "Semi-annual training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "Six month training plan"
+      },
+      "YEARLY_PLUS_TABLET": {
+        "TITLE": "Yearly subscription + tablet",
+        "DESCRIPTION": "Annual training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "One year training plan"
+      },
+      "COUPLE_YEARLY": {
+        "TITLE": "Yearly couples subscription",
+        "DESCRIPTION": "Annual training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "One year training plan"
+      },
+      "ONE_WEEK_TRIAL": {
+        "TITLE": "One week trial",
+        "DESCRIPTION": "Week-long trial of annual training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "One week training plan"
+      },
+      "TRI_MONTHLY_RENEWING": {
+        "TITLE": "Renewable quarterly subscription",
+        "DESCRIPTION": "Three-month-long renewable training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "Three month training plan"
+      },
+      "MONTHLY_RENEWING": {
+        "TITLE": "Renewable monthly subscription",
+        "DESCRIPTION": "Monthly renewable training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "One month training plan"
+      },
+      "UP_TO_MONTH": {
+        "TITLE": "Monthly non-renewable subscription",
+        "DESCRIPTION": "Monthly training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "Training plan up to one month"
+      },
+      "TWO_WEEK_TRIAL": {
+        "TITLE": "Two week trial",
+        "DESCRIPTION": "Two-week trial of annual training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "Two-week training plan"
+      },
+      "GENERAL_TRIAL": {
+        "TITLE": "Clalit trial",
+        "DESCRIPTION": "General trial of training program, progress panel based on abilities, personalized trainings, customer service and support call center, and a memory techniques course featuring Eran Katz.",
+        "SUB_TITLE": "One year training plan"
+      }
+    }
+  },
+  "BREADCRUMBS": {
+    "SELECT_PLAN": "Select package",
+    "PAYMENT_DETAILS": "Payment details"
+  },
+  "CATEGORIES": {
+    "GENERAL_SUMMARY": {
+      "TITLE": "General summary"
+    },
+    "ADMINISTRATIVE_ATTENTION": {
+      "TITLE": "Executive attention",
+      "DESCRIPTION": "The executive attention system is our brain's cognitive \"manager\": when our attention is pulled in several directions, the executive attention system manages how the brain should act and where we should direct our attention. For example, when two things are happening simultaneously, the executive attention system will decide which event we should respond to first. Executive attention is what allows us to identify errors, make quick decisions in risky situations, and overcome bad habits by suppresssing automatic actions. This ability also helps us with day-to-day cognitive challenges such as regulating emotions, delaying gratification, and long-term planning."
+    },
+    "WORK_MEMORY": {
+      "TITLE": "Working memory",
+      "DESCRIPTION": "Our working memory holds all of the information we need to perform a particular task. This information can be received from our senses (sight, hearing, smell, etc.) or we can extract it from the vast store of information we have in our long-term memory. The working memory connects all of the necessary pieces of information in order to achieve the desired result. The information that is held by the working memory can then be manipulated. For example, when we have numbers in mind we are able to perform calculations on them, whether it's at a restaurant or when we're doing our taxes. Another example: when we cook according to a recipe, our working memory is what allows us to remember the steps and ingredients needed. The capacity of working memory is limited, however: the average person can hold roughly five items in their working memory at a given time."
+    },
+    "INFORMATION_PROCESSING": {
+      "TITLE": "Information processing",
+      "DESCRIPTION": "Information processing is the initial process of identifying and analyzing the information received to the brain from the senses. The brain's ability to efficiently understand, analyze, process, and send information depends on a number of factors, particularly the quality and quantity of neural connections between the brain cells. For example, when we see an image of 3 connected lines, the brain picks up that information, compares it to existing information stored in long-term memory, and comes to the conclusion that it is a triangle. This is the mechanism of information processing."
+    },
+    "SEMANTIC_MEMORY": {
+      "TITLE": "Semantic memory",
+      "DESCRIPTION": "The word \"semantics\" means \"meaning\". Semantic memory is the complete collection of general knowledge we have accumulated over the years. It is a memory of general knowledge and facts, which includes virtually everything we know about the world around us. Semantic memory contains information about the identity and characteristics of various objects - which can be concrete things like \"table\" or \"dog\", as well as abstract things like \"invention\" or \"democracy\". Semantic memory not only represents the individual objects, but also the different connections between them, such as the connection between sea and ship or sea and watermelon - the ship and watermelon are both connected to the sea, but the type of connection between them is very different. The knowledge that exists in semantic memory allows us to understand the role of objects in the world and the meaning of the information received from the senses, and to decide how to respond to it. All in all, semantic memory allows us to understand and decipher the world."
+    },
+    "BINDING": {
+      "TITLE": "Binding",
+      "DESCRIPTION": ""
+    },
+    "SPATIAL_ATTENTION": {
+      "TITLE": "Spatial attention",
+      "DESCRIPTION": "Spatial attention is a type of attention that refers to the division of our awareness in space, such as our field of vision. Directing attention to a specifc area in space allows us to better absorb the information contained in it, such as being able to identify a certain object or to distinguish between an object and its background. It is important to pay attention to the entirety of our visual field, so as not to miss important things that may be happening in our environment."
+    },
+    "FOCUS_ATTENTION": {
+      "TITLE": "Focused attention",
+      "DESCRIPTION": "Focused attention is the process of focusing on a particular thing. It can be a person, an image, a sound, a thought, etc. Attention is necessary for relevant information to undergo in-depth analysis and be stored in working memory. Therefore, focused attention allows us to focus on what is really important at that moment and requires high concentration."
+    },
+    "SELECTIVE_ATTENTION": {
+      "TITLE": "Selective attention",
+      "DESCRIPTION": "Selective attention is the ability to manage one's attention through information filtering. It allows us to direct attention to specific information while ignoring all other things happening at that moment. For example, selective attention allows us to concentrate on reading a newspaper when people are talking around us. The more the information that is important to us is similar to the information that should be ignored, the more \"strained\" our selective attention is. For example, it may be more difficult to listen to someone talking when there are other conversations in the background, compared to a situation where music is playing in the background. When we exercise selective attention, we are actually managing the information obtained. Without it, our attention will be drawn to the most prominent items around us, which are not necessarily the most important, and may impair our ability to remember the important things."
+    },
+    "INHIBITION": {
+      "TITLE": "Inhibition",
+      "DESCRIPTION": "nhibition, which is part of attentional control, is the ability to stop a response from execution. For example, try completing the following sentence with an inappropriate word: \"The light at a traffic light changes from red to yellow, and then it changes to _______.\" If the word \"green\" immediately occurred to you and you had to activate a mental 'brake' to replace it with, say, the word \"purple\" - congratulations, you experienced inhibition. This capability allows impulse control and blocking of automatic responses. Problems with this skill may manifest as impulsivity or difficulty stopping and thinking before performing an action."
+    },
+    "CHUNKING": {
+      "TITLE": "Chunking",
+      "DESCRIPTION": "Chunking is the process of connecting several items together and constructing them into one group. The resulting group - called a chunk - is a new, individual object, a single block of meaning. An interesting example of chunking occurs with chess players. While the average person looking at a chessboard will simply see various tools placed across the board, an expert chess player - who knows how to identify the relations between the placed tools - will see on the board strategic clusters of defense and attack. The chunking process helps a lot in memory processes, in part because one cluster (like the word FBI) ​​is stored more efficiently than multiple individual items (the individual letters F, B, and I), and even takes up less space in working memory."
+    },
+    "ATTENTION": {
+      "TITLE": "Attention",
+      "DESCRIPTION": "Attention is the ability to actively process specific information while tuning out other details in the environment. It is often simulated as an inner spotlight that we turn to our senses in order to receive new information. Attention is partially involved in most of our thinking processes: we need attention to take in new information, we need to maintain stable attention to stay focused, and we can even decide which information we want to process and which information we want to ignore. For example, if you are talking to a friend and at the same time you are waiting for the train to arrive,  you can be staring directly to your friend but  you still will be able to know when the train arives. this activation of the inner spotlight  is called  attention orientation. Attention playes a crucial role in proccecing the information that comes to our minds. Without it, it is almost imposible to create new memories. Attention is a limited resource, forcing us to be selective about what we decide to focus on."
+    },
+    "FACE_RECOGNITION": {
+      "TITLE": "Face recognition",
+      "DESCRIPTION": ""
+    },
+    "ASSOCIATIVE_CONNECTIONS": {
+      "TITLE": "Creating associations",
+      "DESCRIPTION": "When two information items are linked in our minds, like \"Cat\" and \"Dog\", \"Coffe\" and \"Cake\", an association is formed. these mental links are created automatically. This ability is necesery for memory procesess and Information in long term memory is stored by associations. Training the ability to create associative connections is one of the ways to improve memory retrival. Associative links can be created intentially by linking two concepts together. Due to the fact that our brain uses associations every day, artificially creating them can help improve our memory."
+    },
+    "ASSOCIATIVE_CHAIN": {
+      "TITLE": "Associations chain",
+      "DESCRIPTION": "creating association chains is a memory strategy, also called \"road story\", that can help remember lists. in order to creat a chan association, we need to creat an associative link between the first and second item on the list, and then between the second and third items on the list and so on. The story we ultimatly get by combining all the items on the list, is much easier to remember."
+    },
+    "CATEGORIZATION": {
+      "TITLE": "Categorization",
+      "DESCRIPTION": "Categorization is the ability to cast different items into groups based on a common ground between certain items. Some example groupings may be furniture, animals, things that start with the letter A. Diving information intocategories helps to organize it efficiently, making it easier to save in memory and retrieve in the future."
+    },
+    "CONNECTIVITY": {
+      "TITLE": "Binding",
+      "DESCRIPTION": "Binding is the \"gluing\" together of different pieces of information. One type of binding is between different dimensions of the same object. For example, when we see a basketball, one part of the brain is responsible for perceiving the orange color, another for perceiving the round shape, a third part for capturing the smell of the rubber, and another part for linking these features together to create a full object that we call a basketball. In other words, binding is responsible for connecting different features into a single object with a specific meaning. Thus, an orange basketball is different from a blue basketball, and an orange basketball is different from an orange (despite them being the same shape and color). Another type of binding is between different things or objects that relate to each other, such as a hat and a water bottle, a cup and a coaster, or a purse and the items kept inside of it. Binding is not only important for fully understanding and remembering things, but also for remembering when and where we encountered them."
+    },
+    "RECALLING_NAMES": {
+      "TITLE": "Name recall",
+      "DESCRIPTION": ""
+    },
+    "COGNITIVE_FLEXIBILITY": {
+      "TITLE": "Cognitive flexibility",
+      "DESCRIPTION": "Cognitive flexibility is a mental process of shifting focused attention from one concept to another. We can do it consciously, for example when trying to think like another person, or unconsciously. Cognitive flexibility refers to our ability to alter our perspective and behavior in response to changes in our environment in order to achieve a desired outcome. Having difficulties with this ability can restrict our range of responses."
+    }
+  },
+  "GAMES_LIST": {
+    "GAME_1": {
+      "TITLE": "The Missing Piece"
+    },
+    "GAME_2": {
+      "TITLE": "Memory Cube"
+    },
+    "GAME_3": {
+      "TITLE": "Connect the Dots"
+    },
+    "GAME_11": {
+      "TITLE": "ZigZag the Dots"
+    },
+    "GAME_12": {
+      "TITLE": "Dual Focus"
+    },
+    "GAME_4": {
+      "TITLE": "Rolling Stones"
+    },
+    "GAME_5": {
+      "TITLE": "I Spy"
+    },
+    "GAME_6": {
+      "TITLE": "Face Time: on the escalator"
+    },
+    "GAME_16": {
+      "TITLE": "Face Time: on the bus"
+    },
+    "GAME_7": {
+      "TITLE": "The Odd Pair"
+    },
+    "GAME_8": {
+      "TITLE": "Project Grandma I: Supermarket Sweep"
+    },
+    "GAME_9": {
+      "TITLE": "Project Grandma II: MasterChef"
+    },
+    "GAME_10": {
+      "TITLE": "The Portrait"
+    },
+    "GAME_14": {
+      "TITLE": "Lost in Space"
+    },
+    "GAME_15": {
+      "TITLE": "The Red Carpet"
+    },
+    "GAME_13": {
+      "TITLE": "Navigation"
+    },
+    "GAME_100": {
+      "TITLE": "True Colors"
+    },
+    "GAME_200": {
+      "TITLE": "Fashionably Late"
+    },
+    "GAME_201": {
+      "TITLE": "Bouncing Beetle"
+    },
+    "GAME_101": {
+      "TITLE": "Go with the Flow"
+    },
+    "GAME_102": {
+      "TITLE": "Face to Face"
+    },
+    "GAME_103": {
+      "TITLE": "Odds and Evens"
+    },
+    "GAME_104": {
+      "TITLE": "Follow me"
+    },
+    "GAME_17": {
+      "TITLE": "Birds"
+    },
+    "EXERCISES_WILL_OPEN": "Exercises will open after you finish your daily training session"
+  },
+  "TRAINING_VIDEOS_LIST": {
+    "ITEM_1": {
+      "VIDEO_TYPE": "Strategy videos",
+      "VIDEOS": {
+        "VIDEO_1": {
+          "TITLE": "Creating Associations 1"
+        },
+        "VIDEO_2": {
+          "TITLE": "Creating Associations 2"
+        }
+      }
+    },
+    "ITEM_2": {
+      "VIDEO_TYPE": "Strategy videos",
+      "VIDEOS": {
+        "VIDEO_1": {
+          "TITLE": "Remembering Faces"
+        },
+        "VIDEO_2": {
+          "TITLE": "Finding Constant Features"
+        }
+      }
+    },
+    "ITEM_3": {
+      "VIDEO_TYPE": "Strategy videos",
+      "VIDEOS": {
+        "VIDEO_1": {
+          "TITLE": "Putting a Name to a Face 1"
+        },
+        "VIDEO_2": {
+          "TITLE": "Putting a Name to a Face 2"
+        }
+      }
+    },
+    "ITEM_4": {
+      "VIDEO_TYPE": "Strategy video",
+      "VIDEOS": {
+        "VIDEO_1": {
+          "TITLE": "Information Organization"
+        }
+      }
+    },
+    "ITEM_5": {
+      "VIDEO_TYPE": "Strategy video",
+      "VIDEOS": {
+        "VIDEO_1": {
+          "TITLE": "Creating Associations"
+        }
+      }
+    },
+    "ITEM_6": {
+      "VIDEO_TYPE": "Training video",
+      "VIDEOS": {
+        "VIDEO_1": {
+          "TITLE": "Rolling Stones: Explained"
+        }
+      }
+    },
+    "ITEM_7": {
+      "VIDEO_TYPE": "Training video",
+      "VIDEOS": {
+        "VIDEO_1": {
+          "TITLE": "Memory Cube: Explained"
+        }
+      }
+    },
+    "ITEM_8": {
+      "VIDEO_TYPE": "Training video",
+      "VIDEOS": {
+        "VIDEO_1": {
+          "TITLE": "Connect the Dots: Explained"
+        }
+      }
+    },
+    "ITEM_9": {
+      "VIDEO_TYPE": "Strategy video",
+      "VIDEOS": {
+        "VIDEO_1": {
+          "TITLE": "Mental Road Map"
+        }
+      }
+    }
+  },
+  "PURCHASE_NOTIFY_POPUP": {
+    "TYPE_A": {
+      "TITLE": "Time to renew subscription",
+      "TEXT1": "We want to remind you that your subscription will expire in {{days}} days.",
+      "TEXT2": "It's really worth renewing now!",
+      "FOOTER": "You have accumulated {{coins}} coins, which awards you with a discount of {{discount}} percent!",
+      "BTN1": "Renew now",
+      "BTN2": "Maybe later - continue training"
+    },
+    "TEXTS": {
+      "COMMING_SOON": "Your trial will end soon!",
+      "FOR_YOU": "Here is an exclusive offer for you:",
+      "REDUCTION": "10% off",
+      "NO_COMMINTMENT": "monthly payment, no committment necessary!",
+      "BUY": "To subscribe",
+      "BUY_TODAY": "Subscribe today!",
+      "MEMORY_ABILITY": "Do you want to continue training?",
+      "GOOD_WORK": "Good Work!",
+      "RESTRICTED_LEVELS": "Subscribe to continue training your brain",
+      "RESTRICTED_LEVELS_ONLY": "Trial users are free to train in levels 1-5.<br/> Next levels are open to subscribed users only.",
+      "FINISH_LEVEL": "You have finished level {{level}}!",
+      "STAY_IN_LEVEL": "Continue level {{level}}"
+    }
+  },
+  "RESTRICTIONS": {
+    "PROGRESS_DISCLAIMER": "To view your ability-based progress, subscribe today!",
+    "VIDEO_DISCLAIMER": "To watch the videos, upgrade today",
+    "VIDEO_DISCLAIMER2": "To watch the videos, renew today",
+    "AUDIO_DISCLAIMER": "To listen, upgrade today",
+    "AUDIO_DISCLAIMER2": "To listen, renew today",
+    "NEXT_LEVELS_DISCLAIMER": "Great job! But the following levels are open to paying customers only.",
+    "EXERCISES": {
+      "TITLE": "The exercises are available only in active memberships!",
+      "EXPIRED_FRM_MSG": "Subscribe and train today!",
+      "EXPIRED_PREM_MSG": "Renew your membership and train today!"
+    }
+  },
+  "GENERAL": {
+    "MORE": "More",
+    "LESS": "Less",
+    "TERMS_URL": "https://effectivate.com/terms-and-conditions/",
+    "PRIVACY_URL": "https://effectivate.com/privacy-policy/",
+    "MORE_DETAILS": "More details",
+    "MORE_INFORMATION": "More Information",
+    "CLOSE_MORE_INFORMATION": "Close More Information",
+    "TRAINING": "training",
+    "GENDER": {
+      "MALE": "Male",
+      "FEMALE": "Female"
+    },
+    "MESSAGES": {
+      "DONE": "Done!",
+      "UPDATE_SUCCESS": "Update completed successfully!",
+      "ERROR": "Error!",
+      "SOMETHING_WENT_WRONG": "Something went wrong",
+      "LOGIN_AGAIN": "Something went wrong, try to login again"
+    },
+    "BUTTONS": {
+      "CLOSE_WINDOW": "Close window",
+      "CLICK_HERE": "Click here",
+      "CONTINUE": "Continue",
+      "ENTER": "Enter",
+      "SAVE": "Save",
+      "SAVE_AND_CONTINUE": "Save & continue to training",
+      "SAVE_DETAILS": "Save personal details",
+      "SKIP": "Skip",
+      "REPLAY_VIDEO": "Replay video",
+      "PLAY": "Play",
+      "STOP": "Stop"
+    },
+    "LINKS": {
+      "EDIT_EMAIL": "edit email",
+      "CHANGE_PASS": "change password",
+      "BACK_TO_HOME": "Back to entrance page",
+      "CREATE_ACCOUNT": "Don't have an account yet? Create an account",
+      "BACK_TO_ACCOUNT": "Back to my account"
+    },
+    "VALIDATION_MESSAGES": {
+      "MANDATORY_FIELD": "Mandatory field"
+    },
+    "PAGING": {
+      "PAGE": "Page",
+      "PREVIOUS": "Previous",
+      "NEXT": "Next"
+    },
+    "TIME": {
+      "FORTNIGHT": "14 days",
+      "30_DAYS": "30 days",
+      "120_days": "120 days",
+      "YEAR": "Year",
+      "TWO_YEARS": "Two years"
+    }
+  },
+  "MESSAGES": {
+    "SUPPORT": {
+      "SUCCESS": {
+        "MESSAGE": "Support request has been sent successfully.",
+        "TITLE": "Success!"
+      },
+      "FAILURE": {
+        "MESSAGE": "Support request failed to send.",
+        "TITLE": "Failed!"
+      }
+    }
+  },
+  "CLALIT_PAGE": {
+    "MAINTITLE": "אימון לשימור וחיזוק הזיכרון לגילאי 55+",
+    "SUBTITLE": "מבצע מיוחד ללקוחות כללית",
+    "THIRDTITLE": "לבדיקת הזכאות שלך בכללית יש להזין מספר תעודת זהות",
+    "INSURANCE_MSG": "לא מבוטח כללית? לחץ כאן",
+    "SUBMIT_BUTTON": "לבדיקת זכאות",
+    "PRESS_HERE_BTN": "לחץ כאן לכניסה לאימון",
+    "REGISTER_MSG_BTN": "נרשמת בעבר? ",
+    "ID_PLACEHOLDER": "הזינו מספר ת.ז*",
+    "ID_VALIDATION": {
+      "ID_REQURIRED": "ת.ז חובה",
+      "ID_BAD": "ת.ז לא חוקית"
+    }
+  },
+  "REGISTER_NEW": {
+    "CLALIT_MAIN_TITLE": "הנך זכאי ל-30 יום מתנה מכללית",
+    "EFFEC_MAIN_TITLE": "יש לנו הצעה אטרקטיבית עבורך",
+    "EFFEC_SUB_TITLE": "השאירו פרטים ונחזור אליכם בהקדם",
+    "SUB_TITLE_MSG": "הרשמו לתקופת התנסות <b> חינם וללא התחייבות </b> באימון מוחי שלEffectivate",
+    "FOOTER_MSG": "הנך מסכים לקבל מידע והוראות הפעלה לתוכנה, אותם ניתן להפסיק בכל שלב",
+    "SUBMIT_BUTTON": "שליחה",
+    "FULL_NAME_PLACEHOLDER": "שם מלא*",
+    "PHONE_NUM": "טלפון*",
+    "EMAIL_ADDRESS": "כתובת אימייל*",
+    "SUBMIT_BTN": "שליחה",
+    "NAME_VALIDATION": {
+      "NAME_REQUIRED": "שם חובה"
+    },
+    "PHONE_VALIDATION": {
+      "PHONE_REQUIRED": "טלפון חובה",
+      "PHONE_BAD": "מספר הטלפון לא תקין"
+    },
+    "EMAIL_VALIDATION": {
+      "EMAIL_BAD": "אימייל לא חוקי",
+      "EMAIL_REQUIRED": "אימייל חובה"
+    },
+    "SUBMIT_MSG": "שלום _ לצערנו לא מצאנו אותך במאגר הלקוחות של כללית. נציג שלנו יצור עמך קשר בהקדם"
+  },
+  "ERROR_PAGE": {
+    "TITLE": "Please note - {{ value }} browser is not supported",
+    "SUB_TITLE": "Please use one of the following browsers instead"
+  },
+  "REGITER_FREE_EN": {
+    "MAIN_TITLE": "Brain exercises to maintain and strengthen memory for ages 55+",
+    "SUB_TITLE": "Sign up for a <span class='JSON-title-bold'>free</span> trial period of brain training by Effectivate",
+    "TRIAL_DAYS": "for {{value}} days",
+    "FIRST_NAME_PH": "First Name",
+    "LAST_NAME_PH": "Last Name",
+    "EMAIL_PH": "Email Address",
+    "PHONE_PH": "Phone Number",
+    "BIRTHDAY_PH": "Date of birth",
+    "FOOTER_MSG": "I agree to receive occasional information from Effectivate that may be stopped at any time",
+    "SUBMIT_BTN": "Start Now",
+    "VALIDATION_ERRORS": {
+      "FIELD_REQUIRED": "*Field required",
+      "MIN_LETTERS": "*Please enter at least 2 letters",
+      "BAD_NAME": "*Please enter only letters",
+      "EMAIL_BAD": "*Please enter a valid email",
+      "PHONE_BAD": "*Please enter a valid phone number",
+      "BIRTHDAY_BAD": "*Please enter a valid date"
+    }
+  },
+  "SUCCESS_PAGE": {
+    "CUSTOMER_REGISTER": "Customer Registration",
+    "SUCCESS_REGISTER": "Successful Registration",
+    "SUCCESS_PAYMENT": "Successful Payment",
+    "ENTER": "Continue",
+    "YOUR_USERNAME": "Your Username is:",
+    "INITIAL_PASSWORD": "Your password is your phone number",
+    "CHANGE_PASSWORD": "In case you want to change your password, ",
+    "CLICK_HERE": "Click here",
+    "ENTER_PASSWORD": "Enter Password"
+  },
+  "NOTIFICATION_POPUPS": {
+    "TEXT1": "Your subscription is almost over but you can continue!",
+    "TEXT2": "We are offering a special discount to our users",
+    "TEXT3": "30% off",
+    "TEXT3_SUPERPHARM": "15% off",
+    "TEXT4": "Monthly payment, no committment necessary!",
+    "TEXT4_2": "Join us - monthly payment, no obligation",
+    "BUY_BTN": "Purchase",
+    "DISMISS_BTN": "Maybe later"
+  },
+  "REGISTER_CLALIT_AUG": {
+    "NOT_ELIGIBLE_MAIN_MSG": "לא נמצאת זכאי למבצע התנסות של כללית",
+    "NOT_ELIGIBLE_SUB_MSG": "מלא את הפרטים ונציג יצור עימך קשר בהקדם",
+    "TOO_SHORT": "ת.ז קצרה מדי",
+    "TOO_LONG": "ת.ז ארוכה מדי",
+    "ID_PATTERN_BAD": "אנא הכנס מספרים בלבד",
+    "REFER_TO_HOMEPAGE_MSG": "הטופס נשלח בהצלחה, אתה מופנה לאתר הבית של חברת Effectivate"
+  },
+  "REGISTER_EN_SEPT": {
+    "MAIN_TITLE": "Unique Brain training App to strengthen and maintain memory",
+    "SUB_TITLE": "sign up for a FREE trial"
+  },
+  "SUPER_PHARM": {
+    "FULL_NAME_PH": "Full Name"
+  },
+  "JOURNEY": {
+    "PART": "Part",
+    "HEADER": "My Journey",
+    "DESC": "Here you can find all of the contents you’ve collected during your trainings or purchased with your coins: videos, books, courses and more.",
+    "VIDEOS": "VIDEOS",
+    "COURSES": "COURSES",
+    "AUDIO": "AUDIO",
+    "COINS": "COINS",
+    "CLUB": "CLUB",
+    "SIGNALS": "SIGNALS",
+    "PRICE": "Price",
+    "PURCHASE": "Purchase",
+    "PURCHASE_CANCEL": "Cancel",
+    "PURCHASE_DONE": "You have purchased the book using your coins",
+    "PURCHASE_COURSE_DONE": "You have purchased the course using your coins",
+    "VIDEO_DESC1": "In this tab you can find and re-watch the videos that were incorporated into the trainings.",
+    "VIDEO_DESC2": "You will find here educational videos, mnemonic strategies and explanations about the system. Grab some popcorn and enjoy!",
+    "NEXT_VIDEO_TEXT": "New video in {{num}} trainings",
+    "NEXT_VIDEO_TEXT1": "New video after next training",
+    "COURSE_DESC1": "Learning new things expands the mind and challenges the brain.",
+    "COURSE_DESC2": "As you progress with your training journey, you’ll be able to use your coins to purchase the courses shown below.",
+    "COURSE_DESC3": "Practice and application of the learned content will help you assimilate the new habits in your daily life. Have fun learning!",
+    "COINS_DESC1": "We at Effectivate believe that perseverance is the key to success. That's why we created a rewards program for users who persevere.",
+    "COINS_DESC2": "Each workout awards you with coins that you can use to purchase audio-books, convert to a discount when renewing your subscription, and more.",
+    "COINS_DESC3": "In this tab you’ll find a detailed list of the coins you’ve accumulated.",
+    "AUDIO_DESC1": "In this tab you can listen to audio-books that will teach you new memory strategies, help you delve deeper into strategies you’ve already learned, present and explain new concepts, and more.",
+    "AUDIO_DESC2": "The locked books will open as you progress through the training journey. When a book is open you can purchase it using your accumulated coins, so you could listen and expand your knowledge even further. Have fun!",
+    "CLUB_DESC1": "Effectivate",
+    "CLUB_DESC2": "Life Style",
+    "CLUB_TAB": {
+      "VALID": "Valid until: ",
+      "SUCCESS_REDEEM": "You got \"{{item}}\" successfully"
+    },
+    "COINS_TAB": {
+      "SECTION1_TITLE": "My Coins",
+      "SECTION2_TITLE": "What can I do with my coins",
+      "SECTION3_TITLE": "How can I gain coins",
+      "TOTAL_COINS": "Total coins accumulated",
+      "COINS_STATUS": "Coins Status",
+      "USED_COINS": "Coins Used",
+      "HISTORY": "Details",
+      "REDUCTION_TITLE": "Discounted subscription renewal",
+      "REDUCTION_TEXT1": "Every 25 coins = 1% discount (max discount 50%)",
+      "REDUCTION_TEXT2": "The coins are personal and non-transferable",
+      "BOOK_TITLE": "",
+      "BOOK_TEXT": "",
+      "CLUB_TITLE": "",
+      "CLUB_TEXT": "",
+      "TOBE": "More to come soon. Stay tuned!",
+      "COINS": "coins",
+      "FOR_TRAINING_TITLE": "Per training",
+      "FOR_TRAINING_TEXT": "",
+      "FOR_STREAK_TITLE": "For a streak",
+      "FOR_STREAK_TEXT": "A streak is a week with at least 3 trainings",
+      "FOR_REF_TITLE": "For every friend you refer us",
+      "FOR_REF_TEXT": "",
+      "FOR_USE": "You have",
+      "REDUCTION_PREFIX": "Reduction",
+      "PLAN_RENEW": "In plan renewal",
+      "ACCUMULATE": "Gain",
+      "USED": "Used",
+      "DETAILS": "Details",
+      "REDUCTION": "Off"
+    },
+    "AUDIO_TAB": {
+      "SUCCESS_PARCHASE": "You got \"{{item}}\" successfully",
+      "SHOW_MORE": "To Chapters",
+      "WATCH_MORE": "To Chapters",
+      "TRAINING_LOCK": "In {{num}} trainings this book will be available for puchase using your coins",
+      "TRAINING_LOCK1": "In next training this book will be available for puchase using your coins",
+      "TRAINING_LOCK_NEXT": "The book will be available late on in the journey",
+      "BRAIN_GIFTS": {
+        "TITLE": "Five Gifts For The Mind | Eran Katz",
+        "TEXT": "Professor Jerome Zommer receives an anonymous letter from an 'Asian student' challenging him with five assignments, each related to a certain brain skill that is supposedly impossible to do. Together with Misun Park, his student, he begins a journey taking him into Asian and Jewish practical wisdom.",
+        "CHAPTERS": {
+          "101": "1.Table of Contents",
+          "102": "2.Jerusalem",
+          "103": "3.Boston - 3 weeks later",
+          "104": "4.Extinguishing the Memory Fuse",
+          "105": "5.The gate to oblivion ",
+          "106": "6.The Divine Command Method",
+          "107": "7.Sejong’s Innovation The Human Forgetfulness Technique",
+          "108": "8.The Phantom Method Distorting Memories for Your Own Benefit",
+          "109": "9.The Gift of Forgetting A Guide to Deleting Undesirable Memories",
+          "110": "10.Bonus tip Make a folder of positive memories and successes. ",
+          "201": "1.Mumbai, India",
+          "202": "2.Navigating Life Decisions Over riding the external factors that create mistakes.",
+          "203": "3.The gift of missing Things The “Two Minutes Tops” Method",
+          "204": "4.The gift of intuition",
+          "205": "5.The great brain jammer",
+          "206": "6.Shattering our Mistaken Patterns and Beliefs",
+          "207": "7.Me, myself, I",
+          "208": "8.The mistake of instant gratification",
+          "209": "9.Santosh’s Rules for Navigating in a World Full of Obstacles and Mistakes",
+          "301": "1.How to exhibit self - control or liberate yourself to live life without regrets - Bangkok, Thailand",
+          "302": "2.The divine rental program",
+          "303": "3.The best vow ever taken",
+          "304": "4.Four hundred steps to distraction",
+          "305": "5.No man is an island, no woman is a saint",
+          "306": "6.Who is punishing you",
+          "307": "7.Validate yourself",
+          "308": "8.Seven steps to controlling your desires and cravings + How to enjoy a guilt-free life",
+          "401": "1.Beijing, China",
+          "402": "2.Step one Touching the Heart - Dismantling the Bricks",
+          "403": "3.Step Two Mianzi -The Importance of Being Important",
+          "404": "4.The Power of the Gaze - Yoritomo Tashi’s Solution for the Shy",
+          "405": "5.The Third step Guanxi - the Linkedin of Antiquity",
+          "406": "6.The Art of Japanese Giri ",
+          "407": "7.Compassion and Confinement - The Moses Technique",
+          "408": "8.Step four Striking - The Su Qin Strategy",
+          "409": "9.Han  Zommer’s Persuasion Tricks",
+          "501": "The Gift of Beauty – The Japanese neuro-esthetics rules of beauty to create the perfect WOW - Tokyo, Japan"
+        }
+      }
+    },
+    "COURSES_TAB": {
+      "TRAINING_LOCK": "In {{num}} trainings this course will be available for puchase using your coins",
+      "TRAINING_LOCK1": "In next training this course will be available for puchase using your coins",
+      "TRAINING_LOCK_NEXT": "The course will be available late on in the journey",
+      "SUCCESS_PARCHASE": "You got \"{{item}}\" successfully",
+      "APPENDIX": "Appendix",
+      "WATCH_MORE": "To Course"
+    },
+    "AUDIO_PURCHASE_POPUP": {
+      "DESC": " Approve ״{{name}}״",
+      "PURCHASE_BOOK": "Audio book Purchase",
+      "PRICE": "Book Price:",
+      "COINS": "Coins",
+      "FOOTER": "After purchase: {{coins}} coins"
+    },
+    "COURSE_PURCHASE_POPUP": {
+      "DESC": " Approve ״{{name}}״",
+      "PURCHASE_COURSE": "Course Purchase",
+      "PRICE": "Course Price:",
+      "COINS": "Coins",
+      "FOOTER": "After purchase: {{coins}} coins"
+    },
+    "COINS_SUMMARY": {
+      "TOTAL_TITLE": "Total Coins Gained",
+      "COINS": "Coins",
+      "TYPE": "Type",
+      "QUANTITY": "Amount",
+      "DESC": "Description",
+      "TYPE_NAME0": "Start",
+      "TYPE_NAME1": "Achievement",
+      "TYPE_NAME2": "Training",
+      "TYPE_NAME3": "Streaks",
+      "TYPE_NAME4": "Reference",
+      "TYPE_NAME5": "Discount",
+      "TYPE_NAME7": "General",
+      "TYPE_DESC0": "Opening balance",
+      "TYPE_DESC1": "Achievement ...",
+      "TYPE_DESC2": "5 coins for each training",
+      "TYPE_DESC3": "A streak is a week with at least 3 trainings",
+      "TYPE_DESC4": "For every friend you refer us",
+      "TYPE_DESC5": "Plan discount",
+      "TYPE_DESC7": "",
+      "TOTAL_FOOTER": "{{num}} coins in total",
+      "USED_TITLE": "Coins Used",
+      "ITEM_TYPE": "Item Type",
+      "ITEM_NAME": "Item Name",
+      "PURCHASE_DATE": "Purchase Date",
+      "AUDIO_BOOK": "Audio Book",
+      "COURSE": "Course",
+      "CLUB": "Club",
+      "USED_FOOTER": "{{num}} Coins used in total"
+    },
+    "COURSES_TEXTS": {
+      "OOOPS": {
+        "TITLE": "Course with Memory Acquisition Tools & Tactics",
+        "SUB_TITLE": "Oops! Train your brain how not to forget",
+        "DESC": "Eran Katz demonstrates strategic tools for:",
+        "DESC_ITEM1": "Better concentration",
+        "DESC_ITEM2": "Reducing absent-mindednes",
+        "DOWNLOAD": "Download pamphlet",
+        "OOPS_VIDEOS": {
+          "VIDEO1": "1 - Never forget if you locked the door",
+          "VIDEO2": "2 - How not to forget - when we have so much on our mind",
+          "VIDEO3": "3 - Remembering the past",
+          "VIDEO4": "4 - How to avoid distractions",
+          "VIDEO5": "5 - Memory blockers"
+        }
+      },
+      "LANGUAGES": {
+        "TITLE": "Languages Course ...",
+        "SUB_TITLE": "By Eran Katz ...",
+        "VIDEOS": {
+          "VIDEO1": "#1",
+          "VIDEO2": "#2",
+          "VIDEO3": "#3",
+          "VIDEO4": "#4",
+          "VIDEO5": "#5",
+          "VIDEO6": "#6",
+          "VIDEO7": "#7",
+          "VIDEO8": "#8",
+          "VIDEO9": "#9",
+          "VIDEO10": "#10",
+          "VIDEO11": "#11",
+          "VIDEO12": "#12",
+          "VIDEO13": "#13",
+          "VIDEO14": "#14",
+          "VIDEO15": "#15",
+          "VIDEO16": "#16",
+          "VIDEO17": "#17",
+          "VIDEO18": "#18",
+          "VIDEO19": "#19",
+          "VIDEO20": "#20",
+          "VIDEO21": "#21",
+          "VIDEO22": "#22",
+          "VIDEO23": "#23",
+          "VIDEO24": "#24"
+        }
+      }
+    }
+  },
+  "TRAINING_SELECTION": {
+    "TRAINING": "Exercise",
+    "TRAINING_QUERY": "What type of training would you like to do?",
+    "POPUP_TITLE": "Click on the desired training",
+    "SHORT": {
+      "TYPE": "Light",
+      "TIME": "15 Minutes",
+      "BUTTON": "Start training",
+      "DESCRIPTION": "Rough day today, Give me a shorter training"
+    },
+    "STANDARD": {
+      "TYPE": "Recommended",
+      "TIME": "22 Minutes",
+      "BUTTON": "Start training",
+      "DESCRIPTION": "Recommended training"
+    },
+    "LONG": {
+      "TYPE": "Long",
+      "TIME": "28 Minutes",
+      "BUTTON": "Start training",
+      "DESCRIPTION": "I’m up for a challenge, Give me a longer training"
+    },
+    "SECONDS": "{{duration}} seconds",
+    "MINUTES": "{{duration}} minutes",
+    "HOURS": "{{duration}} hours"
+  },
+  "ERROR_POPUP": {
+    "UNKNOWN_ERROR": "We encounterd an error, please try again later",
+    "ID_ERROR": "bad ID",
+    "CARD_NUMBER": "incorrect Card number",
+    "ENTER_ID": "Please Enter ID nubmer",
+    "ENTER_CVV": "Insert CVV",
+    "CVV_OR_ID_MISSING": "Missing CVV or ID",
+    "BAD_CARD_PAYMENT_METHOD": "Bad card or payment method",
+    "EMAIL_EXISTS": "Email already exists, try a different email",
+    "PHONE_EXISTS": "Phone number already exists, try a different number",
+    "ID_EXISTS": "This ID is already registerd on the system",
+    "ID_NOT_ELIGIBLE": "This ID is not eligible for this promotion"
+  },
+  "SNAKE_ICONS_TEXT": {
+    "COINS": "Coins",
+    "EXERCISE": "New Exercise",
+    "COURSE": "New Course",
+    "AUDIO": "Audio Book",
+    "VIDEO": "New Video",
+    "STRATEGY": "New Strategy",
+    "COINS_DYNAMIC": "{{coins}} Coins"
+  },
+  "POST_WEEKLY_TRAININGS": {
+    "TITLE": "My weekly trainings",
+    "ZERO_TRAINING_THIS_WEEK": "We recommend at least 3 training sessions a week",
+    "ONE_TRAINING_THIS_WEEK": "Two more trainings to complete your weekly goal",
+    "TWO_TRAINING_THIS_WEEK": "One more training to complete your weekly goal",
+    "THREE_PLUS_TRAINING_THIS_WEEK": "Congrats! You've completed 3 trainings this week"
+  },
+  "SNAKE_POPUPS": {
+    "TRAINING_TITLE": "Exercise",
+    "CLOSE_POPUP": "Close",
+    "GAME": {
+      "TITLE_UNLOCKED": "Opened exercise",
+      "TITLE_LOCKED": "This exercise will open",
+      "WARNING_MSG": "Additional practice will be possible at the end of the workout",
+      "TO_EXERCISE_BTN": "To exercise"
+    },
+    "COINS": {
+      "WILL_RECEIVE": "You will receive",
+      "RECEIVED": "You received",
+      "COINS": "coins",
+      "COINS_TITLE": "You have completed another part of the journey"
+    },
+    "VIDEO": {
+      "TO_VIDEO": "To video",
+      "UNLOCKED": "This video is available",
+      "WILL_UNLOCK": "This video will be available",
+      "FREEMIMUM": "Possibility to receive this video",
+      "WARNING_MSG": "Watching videos is only possible for paying customers."
+    },
+    "STRATEGY": {
+      "TO_VIDEO": "To video",
+      "UNLOCKED": "This strategy video is available",
+      "WILL_UNLOCK": "This strategy video will be available",
+      "FREEMIMUM": "Possibility to receive this strategy video",
+      "WARNING_MSG": "Watching strategy videos is only possible for paying customers.",
+      "WHAT_IS_STRATEGY": "Video + Game"
+    },
+    "AUDIOBOOK": {
+      "TITLE": {
+        "OPTION1": "You can purchase this Audio book <span class='for-coins-popup'>for {{coinsPrice}} coins</span>",
+        "OPTION2": "You redeemed this Audio book",
+        "OPTION3": "This Audio book will be available for purchase later <span class='for-coins-popup'>for {{coinsPrice}} coins</span>",
+        "OPTION4": "This Audio book is available for purchase <span class='for-coins-popup'>for {{coinsPrice}} coins</span>"
+      },
+      "WARNING_MSG": {
+        "OPTION1": "Audio books are only available to paying subscribers",
+        "OPTION2": "You currently do not have enough coins to redeem this benefit! Practice, accumulate, and return soon."
+      },
+      "BUTTONTEXT": {
+        "OPTION2": "to Audio book",
+        "OPTION3": "Redeem",
+        "OPTION4": "More information"
+      }
+    },
+    "COURSE": {
+      "TITLE": {
+        "OPTION1": "You can purchase this course <span class='for-coins-popup'>for {{coinsPrice}} coins</span>",
+        "OPTION2": "You redeemed this course",
+        "OPTION3": "This course will be available for purchase later <span class='for-coins-popup'>for {{coinsPrice}} coins</span>",
+        "OPTION4": "This course is available for purchase <span class='for-coins-popup'>for {{coinsPrice}} coins</span>"
+      },
+      "WARNING_MSG": {
+        "OPTION1": "Courses are only available to paying subscribers",
+        "OPTION2": "You currently do not have enough coins to redeem this benefit! Practice, accumulate, and return soon."
+      },
+      "BUTTONTEXT": {
+        "OPTION2": "To course",
+        "OPTION3": "Redeem",
+        "OPTION4": "More information"
+      }
+    },
+    "AUDIOBOOK_AND_BOOK": {
+      "MORE_INFO": "Show more",
+      "LESS_INFO": "Show less",
+      "FOR": "for",
+      "COINS": "coins",
+      "AUDIOBOOK": "audio book",
+      "COURSE": "course",
+      "AVAILABLE": "This course is available for purchase",
+      "WILL_BE_AVAILABLE": "This course will be available for purchase later",
+      "PURCHASED_AUDIOBOOK": "You redeemed this audio book",
+      "PURCHASED_COURSE": "You redeemed this course",
+      "FREEMIUM": "You can redeem"
+    },
+    "COURSES_LIST": {
+      "LANGUAGES": {
+        "TITLE": "קורס ללימוד כל שפה שתרצו!",
+        "TEXT": "הקורס אינו בא ללמד אנגלית או שפה אחרת, אלא נועד להעניק כלים, שיטות וטריקים ללימוד כל שפה שתרצו ביעילות ובמהירות."
+      },
+      "OOOPS": {
+        "TITLE": "קורס לרכישת כלים וטקטיקות זיכרון",
+        "TEXT": "אופס! לאמן את המח איך לא לשכוח.<br/>באמצעות אוסף סרטונים וחוברת עבודה, ערן כץ מדגים ומלמד כלים ואסטרטגיות לשפר את יכולת הריכוז והזיכרון ולהפחית את רמת פיזור הדעת."
+      },
+      "OOOPS-EN": {
+        "TITLE": "course for acquiring tools and memory tactics",
+        "TEXT": "Oops! Train the brain how not to forget.<br/> Through a collection of videos and a workbook, Eran Katz demonstrates and teaches tools and strategies to improve the ability to concentrate and memory and reduce the level of distraction."
+      }
+    }
+  },
+  "LOGON2": {
+    "WELCOME": "Welcome!",
+    "WELCOME2": "You are on the login page for the Effectivate online training platform",
+    "WANT_PRACTICE": "Do you want to practice? No problem! Simply enter your email address to get started",
+    "EMAIL": {
+      "EMAIL_LABEL": "Your email",
+      "EMAIL_PLACEHOLDER": "Example: name@mail.com",
+      "EMAIL_NOT_FOUND": "Sorry, your email address was not found"
+    },
+    "PASSWORD": {
+      "PASSWORD_LABEL": "Password",
+      "PASSWORD_PLACEHOLDER": "Type your password here",
+      "PASSWORD_ERROR": "The password is incorrect, please try again. (Initial password hint: Phone)",
+      "TOGGLE_SHOW_PASSWORD_ON": "Show password",
+      "TOGGLE_SHOW_PASSWORD_OFF": "Hide password"
+    },
+    "SERVER_ERROR": "Sorry, but we are experiencing a temporary technical problem. Please try again in a few minutes.",
+    "ACCOUNT_FROZEN": "Your subscription is currently frozen",
+    "ACCOUNT_CANCELLED": "Account cancelled, Please contact support",
+    "FORGOT_PASSWORD_MAIN_HELP_MSG": "For help recovering your password",
+    "FORGOT_PASSWORD": "<< Still need help? Click here to reset your password >>",
+    "FORGOT_PASSWORD_HINT": "Try using these options as your password: Phone number, Birthday date, Sequence of numbers 1 through 6",
+    "APPLICATION_DOWNLOAD": "Download the Effectivate app",
+    "ENTER": "Enter",
+    "CLICK_HERE": "Click here",
+    "SUPPORT": {
+      "ANYDESK": "Download Tech support remote connection",
+      "SUPPORT_PHONE": "Support: 077-3536370",
+      "SUPPORT_TIMES": "Support center is open between sunday to thursday from 09:00 to 17:00"
+    }
+  },
+  "REGISTER_ONE_TIME_PAGE": {
+    "MAIN_TITLE": "Unique brain training app to strengthen and maintain memory",
+    "SUB_TITLE": "Sign up for a <b>free</b> trial of brain training by Effectivate"
+  },
+  "GAME_CATEGORIES": {
+    "SEE_ALL": "See all",
+    "ATTENTIONAL_EXERCISES": "Attentional exercises",
+    "PERCEPTION_AND_MEMORY_EXERCISES": "Perception and memory exercises",
+    "MNEMONIC_STRATEGIES_EXERCISES": "Mnemonic strategies exercises"
+  },
+  "RECOMMENDED_GAME_CATEGORIES": {
+    "ATTENTIONAL_EXERCISES": "Attentional exercise",
+    "PERCEPTION_AND_MEMORY_EXERCISES": "Perception and memory exercise",
+    "MNEMONIC_STRATEGIES_EXERCISES": "Mnemonic strategies exercise"
+  },
+  "ENRICHMENT_MATERIAL": {
+    "TITLE": "Extras",
+    "NO_ITEMS": "Coming soon",
+    "RESOURCES": {
+      "ARTICLES": {
+        "NAME": "Articles",
+        "BRAIN_AND_COGNITION": {
+          "TITLE": "Brain and Cognition – Let’s get familiar",
+          "DESCRIPTION": " What is more important than our brain? The brain is the organ of thoughts, emotions, logic, sense of humor, movement control, sensations, and many other great things",
+          "LINK": "https://effectivate.com/brain-and-cognition-lets-get-familiar/",
+          "THUMBNAIL": "https://effectivate.com/wp-content/uploads/2021/12/102231232_m-300x229.jpg"
+        },
+        "CHEMOBRAIN": {
+          "TITLE": "Chemo Brain – How do chemotherapy treatments affect the brain, and what can be done about it?",
+          "DESCRIPTION": "According to the National Cancer Institute in the United States, millions of people have recovered from cancer and are leading a healthy and long life",
+          "LINK": "https://effectivate.com/chemo-brain-how-do-chemotherapy-treatments-affect-the-brain-and-what-can-be-done-about-it/",
+          "THUMBNAIL": "https://effectivate.com/wp-content/uploads/2021/11/%D7%AA%D7%9E%D7%95%D7%A0%D7%94-%D7%9E%D7%A9%D7%90%D7%98%D7%A8-%D7%A7%D7%98%D7%A0%D7%94-250x300.jpg"
+        },
+        "WHAT_IS_HEALTHY_AGING": {
+          "TITLE": "What is healthy aging?",
+          "DESCRIPTION": "Recent scientific work defines successful aging as an approach that relies on three elements: good health (low risk of disease), high mental and physical functioning, and active involvement in life",
+          "LINK": "https://effectivate.com/what-is-healthy-aging/",
+          "THUMBNAIL": "https://effectivate.com/wp-content/uploads/2021/11/shutterstock_1502157542-300x200.jpg"
+        },
+        "BURNOUT": {
+          "TITLE": "Burnout – How do we take care of our brain?",
+          "DESCRIPTION": "In the present era we are overloaded with information and tasks, and often get exhausted due to burden at work and home, as well as stress",
+          "LINK": "https://effectivate.com/4527-2/",
+          "THUMBNAIL": "https://effectivate.com/wp-content/uploads/2021/11/shutterstock_1175490193-300x200.jpg"
+        },
+        "IS_THERE_A_CONNECTION": {
+          "TITLE": "Is there a connection between the age we “feel” and our brain’s development?",
+          "DESCRIPTION": "The difference between the age we “feel” and age written on our birth certificates can be quite large. Many of us feel younger than our actual age",
+          "LINK": "https://effectivate.com/is-there-a-connection-between-the-age-we-feel-and-our-brains-development/",
+          "THUMBNAIL": "https://effectivate.com/wp-content/uploads/2021/05/%D7%90%D7%AA%D7%A8-%D7%A7%D7%A9%D7%A8-%D7%91%D7%99%D7%9F-%D7%92%D7%99%D7%9C--600x400.jpg"
+        },
+        "NEUROPLASTICITY": {
+          "TITLE": "What is neuroplasticity?",
+          "DESCRIPTION": "Until recently, researchers have believed that the brain only develops during the childhood and adolescent years",
+          "LINK": "https://effectivate.com/what-is-neuroplasticity/",
+          "THUMBNAIL": "https://effectivate.com/wp-content/uploads/2021/05/%D7%92%D7%9E%D7%99%D7%A9%D7%95%D7%AA-%D7%9E%D7%95%D7%97%D7%99%D7%AA-%D7%9C%D7%90%D7%AA%D7%A8-scaled-600x449.jpg"
+        },
+        "HOW_TO_THINK_BETTER": {
+          "TITLE": "How to think better? 7 surprising tips",
+          "DESCRIPTION": "In her TEDx lecture, senior researcher Professor Sandra Bond Chapman presented seven tips that can jumpstart and increase brain activity",
+          "LINK": "https://effectivate.com/how-to-think-better-7-surprising-tips/",
+          "THUMBNAIL": "https://effectivate.com/wp-content/uploads/2021/05/%D7%90%D7%AA%D7%A8-%D7%90%D7%99%D7%9A-%D7%9C%D7%97%D7%A9%D7%95%D7%91-%D7%98%D7%95%D7%91-%D7%99%D7%95%D7%AA%D7%A8-600x393.jpg"
+        },
+        "KNOW_YOUR_MEMORY": {
+          "TITLE": "Know your memory",
+          "DESCRIPTION": "How is memory made? Our ability to generate and draw upon new memories is far more complex than one might think",
+          "LINK": "https://effectivate.com/to-know-your-memory/",
+          "THUMBNAIL": "https://effectivate.com/wp-content/uploads/2021/05/%D7%94%D7%9B%D7%99%D7%A8%D7%95-%D7%90%D7%AA-%D7%94%D7%96%D7%99%D7%9B%D7%A8%D7%95%D7%9F-1-600x400.jpg"
+        }
+      },
+      "LECTURES": {
+        "NAME": "Lectures"
+      }
+    }
+  }
+}
