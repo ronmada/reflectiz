@@ -1,0 +1,12 @@
+<p>עמוד התחברות</p>
+<form [formGroup]="loginForm" (ngSubmit)="login()">
+  <div class="username-item">
+    <label for="user_name">שם משתמש:</label>
+    <input
+      id="user_name"
+      placeholder="הקלד כאן שם משתמש"
+      formControlName="userName"
+    />
+  </div>
+  <button [disabled]="!loginForm.valid" type="sumbit">התחבר</button>
+</form>

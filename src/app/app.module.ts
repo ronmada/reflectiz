@@ -13,10 +13,10 @@ import { IframeComponent } from './enrichment-mat/render-resource/iframe/iframe.
 import { ImageComponent } from './enrichment-mat/render-resource/image/image.component';
 import { SafePipe } from './pipes/safe-pipe.pipe';
 import { LOCATION_INITIALIZED } from '@angular/common';
+import { AppRoutingModule } from './app-routing.module';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { LoginComponent } from './login/login.component';
 
-// export function HttpLoaderFactory(httpClient: HttpClient) {
-//   return new TranslateHttpLoader(httpClient);
-// }
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(
     http,
@@ -31,8 +31,12 @@ export function HttpLoaderFactory(http: HttpClient) {
     IframeComponent,
     ImageComponent,
     SafePipe,
+    LoginComponent,
   ],
   imports: [
+    FormsModule,
+    ReactiveFormsModule,
+    AppRoutingModule,
     BrowserModule,
     HttpClientModule,
     TranslateModule.forRoot({

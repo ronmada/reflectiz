@@ -6,7 +6,14 @@ p {
   background-color: white;
   padding-top: 25px;
 }
-
+.welcome-logout-container {
+  display: grid;
+  justify-items: center;
+}
+.user-name {
+}
+.log-out {
+}
 .title-grid {
   display: grid;
   justify-content: center;
@@ -75,6 +82,7 @@ main {
   justify-items: center;
   margin: auto;
   max-width: 336px;
+  cursor: pointer;
 }
 
 .category-name-text {

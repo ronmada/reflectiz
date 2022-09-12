@@ -5,6 +5,7 @@ import {
   OnInit,
   ViewChild,
 } from '@angular/core';
+import { Router } from '@angular/router';
 import { TranslateService } from '@ngx-translate/core';
 import {
   eLanguages,
@@ -48,6 +49,9 @@ export class EnrichmentMatComponent implements OnInit {
   public allResources: Array<Resource> = [];
   public isExpandedDropdown = false;
   public animation: Animation = null;
+  get name(): string | null {
+    return sessionStorage.getItem('token');
+  }
   @ViewChild('toggleButton') public toggleButton!: ElementRef;
   @HostListener('document:click', ['$event'])
   onClick(e: Event): void {
@@ -59,7 +63,8 @@ export class EnrichmentMatComponent implements OnInit {
   }
   constructor(
     private languageService: LanguageService,
-    private translate: TranslateService
+    private translate: TranslateService,
+    private router: Router
   ) {}
   get language(): eLanguages {
     return this.languageService.getLanguage();
@@ -126,5 +131,9 @@ export class EnrichmentMatComponent implements OnInit {
       allResources[i].items = filterdResource[i];
     }
     return allResources;
+  }
+  public logOut(): void {
+    sessionStorage.clear();
+    this.router.navigate(['login']);
   }
 }
